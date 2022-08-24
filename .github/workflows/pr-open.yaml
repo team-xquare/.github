@@ -2,9 +2,6 @@ name: Pr Open Comment
 on:
   repository_dispatch:
     types: [ org-workflow-bot ]
-  pull_request:
-    types: [ opened, reopened ]
-  workflow_dispatch:
 
 jobs:
   register:
