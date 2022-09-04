@@ -25,10 +25,14 @@ jobs:
           PAYLOAD_ID: ${{ github.event.client_payload.id }}
           CALLBACK_URL: ${{ github.event.client_payload.callback_url }}
           SHA: ${{ github.event.client_payload.sha }}
+          PAYLOAD: ${{ github.event.client_payload }}
+          REPO_NAME: ${{ github.event.client_payload.repository.full_name }}
         run: |
           echo "$PAYLOAD_ID"
           echo "$CALLBACK_URL"
           echo "$SHA"
+          echo "$PAYLOAD"
+          echo "$REPO_NAME"
       - name: Pn Rule Comment
         uses: actions/github-script@v5
         with:
