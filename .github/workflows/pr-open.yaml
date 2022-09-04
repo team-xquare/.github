@@ -19,6 +19,9 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
+      - name: check cient_payload
+        run: |
+          echo "$github.event.client_payload.id"
       - name: Pn Rule Comment
         uses: actions/github-script@v5
         with:
