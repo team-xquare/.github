@@ -3,7 +3,7 @@ on:
   repository_dispatch:
     types: [ org-workflow-bot ]
   pull_request:
-    types: [ opened ]
+    types: [ opened, reopened ]
 
 jobs:
   register:
