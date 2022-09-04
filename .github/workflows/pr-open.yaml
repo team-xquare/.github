@@ -21,10 +21,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: check cient_payload
+        env: 
+          PAYLOAD_ID: ${{ github.event.client_payload.id }}
+          CALLBACK_URL: ${{ github.event.client_payload.callback_url }}
+          SHA: ${{ github.event.client_payload.sha }}
         run: |
-          echo "$github.event.client_payload.id"
-          echo "$github.event.client_payload.callback_url"
-          echo "$github.event.client_payload.sha"
+          echo "$PAYLOAD_ID"
+          echo "$CALLBACK_URL"
+          echo "$SHA"
       - name: Pn Rule Comment
         uses: actions/github-script@v5
         with:
