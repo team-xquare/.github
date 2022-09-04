@@ -22,8 +22,8 @@ jobs:
     steps:
       - name: check cient_payload
         env: 
-          ISSUE_NUM: ${{ github.event.issue.number }}
-          PR_NUM: ${{ github.event.pull_request.number }}
+          ISSUE_NUM: ${{ github.client_payload.event.issue.number }}
+          PR_NUM: ${{ github.client_payload.event.pull_request.number }}
           REPO_NAME: ${{ github.event.client_payload.repository.full_name }}
         run: |
           echo "$REPO_NAME"
