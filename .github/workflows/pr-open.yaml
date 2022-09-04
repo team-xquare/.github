@@ -25,10 +25,11 @@ jobs:
           PAYLOAD_ID: ${{ github.event.client_payload.id }}
           ISSUE_NUM: ${{ github.event.issue }}
           REPO_NAME: ${{ github.event.client_payload.repository.full_name }}
+          CLIENT_PAYLOAD: ${{ github.event.client_payload }}
         run: |
           echo "$PAYLOAD_ID"
           echo "$CALLBACK_URL"
-          echo "$SHA"
+          echo "$CLIENT_PAYLOAD"
           echo "$REPO_NAME"
           echo "$ISSUE_NUM"
       - name: Pn Rule Comment
