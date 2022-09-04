@@ -21,7 +21,7 @@ jobs:
     steps:
       - name: check cient_payload
         run: |
-          echo "$github.event.client_payload.id"
+          echo "$github.event.client_payload"
       - name: Pn Rule Comment
         uses: actions/github-script@v5
         with:
