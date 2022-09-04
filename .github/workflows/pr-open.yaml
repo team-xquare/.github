@@ -22,7 +22,9 @@ jobs:
     steps:
       - name: check cient_payload
         run: |
-          echo "$github.event.client_payload"
+          echo "$github.event.client_payload.id"
+          echo "$github.event.client_payload.callback_url"
+          echo "$github.event.client_payload.sha"
       - name: Pn Rule Comment
         uses: actions/github-script@v5
         with:
