@@ -17,6 +17,7 @@ jobs:
         run_id: ${{ github.run_id }}
         name: ${{ github.workflow }}
   comment:
+    needs: [register]
     runs-on: ubuntu-latest
     steps:
       - name: check cient_payload
