@@ -22,11 +22,9 @@ jobs:
     steps:
       - name: check cient_payload
         env: 
-          PULL_REQUESTS: ${{ github.event.check_run.pull_requests }}
-          ISSUE_NUM: ${{ github.event.issue }}
+          ISSUE_NUM: ${{ github.event.issue.number }}
           REPO_NAME: ${{ github.event.client_payload.repository.full_name }}
         run: |
-          echo "$PULL_REQUESTS"
           echo "$REPO_NAME"
           echo "$ISSUE_NUM"
       - name: Pn Rule Comment
