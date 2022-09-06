@@ -4,6 +4,10 @@ on:
     types: [ org-workflow-bot ]
   pull_request:
     types: [ opened, reopened ]
+    
+permissions:
+  pull-requests: write
+  issues: write
 
 jobs:
   register:
@@ -19,7 +23,6 @@ jobs:
   comment:
     needs: [register]
     runs-on: ubuntu-latest
-    permissions: write-all
     steps:
       - name: Make Request
         id: myRequest
