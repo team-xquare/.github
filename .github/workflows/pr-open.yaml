@@ -29,6 +29,9 @@ jobs:
       - name: Show Response
         run: |
           echo ${{ fromJson(steps.myRequest.outputs.response).items[0].number }}
+      - run: |
+          echo ${{ github.event.client_payload.repository.full_name }}
+          echo ${{ github.event.client_payload.repository.name }}
       - name: check cient_payload
         env: 
           ISSUE_NUM: ${{ github.event.client_payload.event.issue.number }}
@@ -45,8 +48,8 @@ jobs:
           script: |
             github.rest.issues.createComment({
               issue_number: ${{ fromJson(steps.myRequest.outputs.response).items[0].number }},
-              owner: github.event.owner,
-              repo: github.event.repo,
+              owner: github.event.client_payload.repository.owner,
+              repo: github.event.client_payload.repository.full_name,
               body: 'P1: 꼭 반영해주세요 (Request changes)\n \
                      P2: 적극적으로 고려해주세요 (Request changes)\n \
                      P3: 웬만하면 반영해 주세요 (Comment)\n \
