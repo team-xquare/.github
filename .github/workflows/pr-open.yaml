@@ -32,8 +32,6 @@ jobs:
       - run: |
           echo ${{ github.event.client_payload.repository.full_name }}
           echo ${{ github.event.client_payload.repository.name }}
-          echo ${{ context.owner }}
-          echo ${{ context.repo }}
       - name: check cient_payload
         env: 
           ISSUE_NUM: ${{ github.event.client_payload.event.issue.number }}
