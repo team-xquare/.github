@@ -25,6 +25,7 @@ jobs:
         uses: fjogeleit/http-request-action@v1
         with:
           url: "https://api.github.com/search/issues?q=sha:${{ github.event.client_payload.sha }}"
+          method: 'GET'
       - name: Show Response
         run: |
           echo ${{ steps.myRequest.outputs.response }}
