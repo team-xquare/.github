@@ -28,8 +28,7 @@ jobs:
           method: 'GET'
       - name: Show Response
         run: |
-          echo ${{ steps.myRequest.outputs.response }}
-          echo ${{ steps.myRequest.outputs.response.items[0].number }}
+          echo ${{ fromJson(steps.myRequest.outputs.response).items[0].number }}
       - name: check cient_payload
         env: 
           ISSUE_NUM: ${{ github.event.client_payload.event.issue.number }}
@@ -45,7 +44,7 @@ jobs:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             github.rest.issues.createComment({
-              issue_number: github.event.client_payload.issue.number,
+              issue_number: ${{ fromJson(steps.myRequest.outputs.response).items[0].number }},
               owner: github.event.owner,
               repo: github.event.repo,
               body: 'P1: 꼭 반영해주세요 (Request changes)\n \
