@@ -19,6 +19,7 @@ jobs:
   comment:
     needs: [register]
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Make Request
         id: myRequest
