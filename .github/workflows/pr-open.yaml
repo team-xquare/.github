@@ -20,19 +20,15 @@ jobs:
     needs: [register]
     runs-on: ubuntu-latest
     steps:
-      - name: pr-number
-        uses: 8BitJonny/gh-get-current-pr@2.1.1
-        id: PR
+      - name: Make Request
+        id: myRequest
+        uses: fjogeleit/http-request-action@v1
         with:
-          # Authetication token to access GitHub APIs. (Can be omitted by default.)
-          github-token: ${{ github.token }}
-          # Verbose setting SHA when using Pull_Request event trigger to fix #16. (For push even trigger this is not necessary.)
-          sha: ${{ github.event.client_payload.sha }}
-          # Only return if PR is still open. (By default it returns PRs in any state.)
-          filterOutClosed: true
-          # Only return if PR is not in draft state. (By default it returns PRs in any state.)
-          filterOutDraft: true
-      - run: echo "Your PR number is ${{ steps.PR.outputs.number }} and its JSON is ${{ steps.PR.outputs.pr }}"
+          url: "https://api.github.com/search/issues?q=sha:${{ github.event.client_payload.sha }}"
+      - name: Show Response
+        run: |
+          echo ${{ steps.myRequest.outputs.response }}
+          echo ${{ steps.myRequest.outputs.response.items[0].number }}
       - name: check cient_payload
         env: 
           ISSUE_NUM: ${{ github.event.client_payload.event.issue.number }}
@@ -49,8 +45,8 @@ jobs:
           script: |
             github.rest.issues.createComment({
               issue_number: github.event.client_payload.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              owner: github.event.owner,
+              repo: github.event.repo,
               body: 'P1: 꼭 반영해주세요 (Request changes)\n \
                      P2: 적극적으로 고려해주세요 (Request changes)\n \
                      P3: 웬만하면 반영해 주세요 (Comment)\n \
