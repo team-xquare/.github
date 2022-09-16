@@ -24,6 +24,10 @@ jobs:
     needs: [register]
     runs-on: ubuntu-latest
     steps:
+      - name: Sleep for 15 seconds
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '15s'
       - name: Make Request
         id: myRequest
         uses: fjogeleit/http-request-action@v1
