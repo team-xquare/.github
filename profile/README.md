@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/67373938/225011454-59943482-b4f7-4a18-adbe-5cf08d711bd4.gif)
 # DSM을 위한 단 하나의 서비스, XQUARE
 
-<a href='https://apps.apple.com/kr/app/xquare/id1633067002'><img alt='Available on the App Store' src='https://obsidian.md/images/app-store-badge.svg' height='60px'/></a> 
-<a href='https://play.google.com/store/apps/details?id=com.xquare.xquare_android'><img alt='Available on the Play Store' src='https://obsidian.md/images/play-store-badge.svg' height='60px'/></a>
+<a href='https://apps.apple.com/kr/app/xquare/id1633067002'><img alt='Available on the App Store' src='https://user-images.githubusercontent.com/67373938/227817078-7aab7bea-3af0-4930-b341-1a166a39501d.svg' height='60px'/></a> 
+<a href='https://play.google.com/store/apps/details?id=com.xquare.xquare_android'><img alt='Available on the Play Store' src='https://user-images.githubusercontent.com/67373938/227817080-0c069757-4000-4e3e-919b-b062e667ecc4.svg' height='60px'/></a>
 
 > 안녕하세요, team Semicolon;입니다 :)  
 XQUARE는 대덕소프트웨어마이스터고등학교만을 위한 통합 서비스로 지금까지 사용되었던 DMS, 대동여지도, PiCK 등을 합쳐 탄생한 서비스입니다.
