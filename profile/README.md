@@ -23,3 +23,4 @@ XQUARE는 대덕소프트웨어마이스터고등학교만을 위한 통합 서�
 ### 링크
 * XQUARE Organization : https://github.com/team-xquare 
 * XQUARE Guide : https://xquare.oopy.io/
+* XQUARE DevOps : https://team-xquare.notion.site/DevOps-a8693ce0928c465db3a1e598473dda6f
