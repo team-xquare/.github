@@ -24,49 +24,42 @@ jobs:
           echo "<summary><h3>XQUARE를 통해 배포된 서비스 보기</h3></summary>" >> ../services.md
           echo "" >> ../services.md
           
-          for project_file in projects/*.yaml; do
-            project_name=$(basename "$project_file" .yaml | tr '[:lower:]' '[:upper:]')
-            
-            # applications 배열의 길이 확인
-            app_count=$(yq eval '.applications | length' "$project_file" 2>/dev/null || echo "0")
-            if [[ "$app_count" == "0" ]]; then
-              continue
-            fi
-            
-            echo "### $project_name" >> ../services.md
-            echo "" >> ../services.md
-            echo "| Service | GitHub | URL |" >> ../services.md
-            echo "|---------|--------|-----|" >> ../services.md
-            
-            # 인덱스로 각 앱 처리
-            for ((i=0; i<app_count; i++)); do
-              name=$(yq eval ".applications[$i].name // \"unknown\"" "$project_file" 2>/dev/null)
-              owner=$(yq eval ".applications[$i].github.owner // \"unknown\"" "$project_file" 2>/dev/null)
-              repo=$(yq eval ".applications[$i].github.repo // \"unknown\"" "$project_file" 2>/dev/null)
-              
-              if [[ "$owner" != "unknown" && "$repo" != "unknown" && "$owner" != "null" && "$repo" != "null" ]]; then
-                github_url="[GitHub](https://github.com/$owner/$repo)"
-              else
-                github_url="No repository"
-              fi
-              
-              # routes 처리
-              routes=$(yq eval ".applications[$i].endpoints[]?.routes[]?" "$project_file" 2>/dev/null | head -5)
-              if [[ -n "$routes" ]]; then
-                url_list=""
-                while IFS= read -r route; do
-                  [[ -n "$route" ]] && url_list+="[${route}](https://$route)<br>"
-                done <<< "$routes"
-                url_display=${url_list%<br>}
-              else
-                url_display="No routes"
-              fi
-              
-              echo "| $name | $github_url | $url_display |" >> ../services.md
-            done
-            
-            echo "" >> ../services.md
-          done
+          find projects -type f -name "*.yaml" \
+            | while read -r f; do
+                app_count=$(yq eval '.applications | length' "$f" 2>/dev/null || echo 0)
+                project_name=$(basename "$f" .yaml)
+                echo "$app_count|$project_name|$f"
+              done \
+            | sort -t'|' -k1,1nr -k2,2 \
+            | while IFS='|' read -r app_count project_name project_file; do
+                [[ "$app_count" == "0" ]] && continue
+                project_name_upper=$(echo "$project_name" | tr '[:lower:]' '[:upper:]')
+
+                echo "### $project_name_upper" >> ../services.md
+                echo "" >> ../services.md
+                echo "| Service | GitHub | URL |" >> ../services.md
+                echo "|---------|--------|-----|" >> ../services.md
+
+                for ((i=0; i<app_count; i++)); do
+                  name=$(yq eval ".applications[$i].name // \"unknown\"" "$project_file")
+                  owner=$(yq eval ".applications[$i].github.owner // \"unknown\"" "$project_file")
+                  repo=$(yq eval ".applications[$i].github.repo // \"unknown\"" "$project_file")
+                  github_url="No repository"
+                  [[ "$owner" != "unknown" && "$repo" != "unknown" && "$owner" != "null" && "$repo" != "null" ]] \
+                    && github_url="[GitHub](https://github.com/$owner/$repo)"
+
+                  routes=$(yq eval ".applications[$i].endpoints[]?.routes[]?" "$project_file" | head -5)
+                  if [[ -n "$routes" ]]; then
+                    url_list=$(while read -r r; do [[ -n "$r" ]] && echo -n "[${r}](https://$r)<br>"; done <<< "$routes")
+                    url_display="${url_list%<br>}"
+                  else
+                    url_display="No routes"
+                  fi
+
+                  echo "| $name | $github_url | $url_display |" >> ../services.md
+                done
+                echo "" >> ../services.md
+              done
           
           echo "</details>" >> ../services.md
 
