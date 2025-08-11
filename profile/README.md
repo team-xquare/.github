@@ -20,7 +20,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 * XQUARE Organization : https://github.com/team-xquare 
 * XQUARE Infrastructure : https://xquare-infra.xquare.app
 * XQUARE DevOps : https://team-xquare.notion.site/DevOps-a8693ce0928c465db3a1e598473dda6f
----
+
 <details>
 <summary><h3>XQUARE를 통해 배포된 서비스 보기</h3></summary>
 
