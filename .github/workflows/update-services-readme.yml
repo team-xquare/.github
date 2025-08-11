@@ -3,7 +3,6 @@ name: Update README with Services
 on:
   schedule:
     - cron: '*/5 * * * *'
-  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -22,6 +21,9 @@ jobs:
           cd gitops
           echo "> ## XQUARE를 통해 배포된 서비스 보기" > ../services.md
           echo "" >> ../services.md
+          echo "<details>" >> ../services.md
+          echo "<summary>서비스 목록</summary>" >> ../services.md
+          echo "" >> ../services.md
           
           for project_file in projects/*.yaml; do
             project_name=$(basename "$project_file" .yaml | tr '[:lower:]' '[:upper:]')
@@ -30,21 +32,36 @@ jobs:
             echo "| Service | GitHub | URL |" >> ../services.md
             echo "|---------|--------|-----|" >> ../services.md
             
-            yq eval '.applications[] | select(. != null) | [.name, .github.repository, (.endpoints[]?.routes[]? // "No routes")] | @tsv' "$project_file" 2>/dev/null | while IFS=$'\t' read -r name repo routes; do
-              github_url="https://github.com/$repo"
-              if [[ "$routes" != "No routes" && "$routes" != "" ]]; then
-                service_url="https://$routes"
-                url_display="[🔗 Visit]($service_url)"
+            yq eval '.applications[]? | select(. != null)' "$project_file" 2>/dev/null | while read -r app; do
+              name=$(echo "$app" | yq eval '.name // "unknown"' -)
+              repo=$(echo "$app" | yq eval '.github.repository // "unknown"' -)
+              
+              if [[ "$repo" != "unknown" && "$repo" != "null" ]]; then
+                github_url="[GitHub](https://github.com/$repo)"
+              else
+                github_url="No repository"
+              fi
+              
+              all_routes=$(echo "$app" | yq eval '.endpoints[]?.routes[]? // empty' -)
+              if [[ -n "$all_routes" ]]; then
+                url_list=""
+                while IFS= read -r route; do
+                  [[ -n "$route" ]] && url_list+="[${route}](https://$route)<br>"
+                done <<< "$all_routes"
+                url_display=${url_list%<br>}
               else
                 url_display="No routes"
               fi
-              echo "| \`$name\` | [📁 GitHub]($github_url) | $url_display |" >> ../services.md
+              
+              echo "| $name | $github_url | $url_display |" >> ../services.md
             done
             
             echo "" >> ../services.md
           done
           
-          echo "*Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')*" >> ../services.md
+          echo "</details>" >> ../services.md
+          echo "" >> ../services.md
+          echo "*마지막 업데이트: $(date -u '+%Y-%m-%d %H:%M:%S UTC')*" >> ../services.md
 
       - name: Update profile README
         run: |
