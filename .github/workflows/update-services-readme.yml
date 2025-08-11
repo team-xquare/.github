@@ -20,10 +20,8 @@ jobs:
       - name: Generate README section
         run: |
           cd gitops
-          echo "> ## XQUARE를 통해 배포된 서비스 보기" > ../services.md
-          echo "" >> ../services.md
-          echo "<details>" >> ../services.md
-          echo "<summary>서비스 목록</summary>" >> ../services.md
+          echo "<details>" > ../services.md
+          echo "<summary><h3>XQUARE를 통해 배포된 서비스 보기</h3></summary>" >> ../services.md
           echo "" >> ../services.md
           
           for project_file in projects/*.yaml; do
@@ -70,23 +68,15 @@ jobs:
             echo "" >> ../services.md
           done
           
-          echo "</details>" >> ../services.md
           echo "" >> ../services.md
           echo "*마지막 업데이트: $(date -u '+%Y-%m-%d %H:%M:%S UTC')*" >> ../services.md
+          echo "</details>" >> ../services.md
 
       - name: Update profile README
         run: |
           mkdir -p profile
-          if [[ -f profile/README.md ]]; then
-            if grep -q "> ## XQUARE를 통해 배포된 서비스 보기" profile/README.md; then
-              sed -i '/> ## XQUARE를 통해 배포된 서비스 보기/,$d' profile/README.md
-            fi
-            cat services.md >> profile/README.md
-          else
-            echo "# Team XQUARE" > profile/README.md
-            echo "" >> profile/README.md
-            cat services.md >> profile/README.md
-          fi
+          sed -i '/<details>/,$d' profile/README.md 2>/dev/null || true
+          cat services.md >> profile/README.md
 
       - name: Commit and push
         run: |
