@@ -68,8 +68,6 @@ jobs:
             echo "" >> ../services.md
           done
           
-          echo "" >> ../services.md
-          echo "*마지막 업데이트: $(date -u '+%Y-%m-%d %H:%M:%S UTC')*" >> ../services.md
           echo "</details>" >> ../services.md
 
       - name: Update profile README
