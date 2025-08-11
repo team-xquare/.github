@@ -1,0 +1,71 @@
+name: Update README with Services
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clone GitOps repo
+        run: git clone https://github.com/team-xquare/xquare-onpremise-project-gitops-repo.git gitops
+
+      - name: Generate README section
+        run: |
+          cd gitops
+          echo "> ## XQUARE를 통해 배포된 서비스 보기" > ../services.md
+          echo "" >> ../services.md
+          
+          for project_file in projects/*.yaml; do
+            project_name=$(basename "$project_file" .yaml | tr '[:lower:]' '[:upper:]')
+            echo "### $project_name" >> ../services.md
+            echo "" >> ../services.md
+            echo "| Service | GitHub | URL |" >> ../services.md
+            echo "|---------|--------|-----|" >> ../services.md
+            
+            yq eval '.applications[] | select(. != null) | [.name, .github.repository, (.endpoints[]?.routes[]? // "No routes")] | @tsv' "$project_file" 2>/dev/null | while IFS=$'\t' read -r name repo routes; do
+              github_url="https://github.com/$repo"
+              if [[ "$routes" != "No routes" && "$routes" != "" ]]; then
+                service_url="https://$routes"
+                url_display="[🔗 Visit]($service_url)"
+              else
+                url_display="No routes"
+              fi
+              echo "| \`$name\` | [📁 GitHub]($github_url) | $url_display |" >> ../services.md
+            done
+            
+            echo "" >> ../services.md
+          done
+          
+          echo "*Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')*" >> ../services.md
+
+      - name: Update profile README
+        run: |
+          mkdir -p profile
+          if [[ -f profile/README.md ]]; then
+            if grep -q "> ## XQUARE를 통해 배포된 서비스 보기" profile/README.md; then
+              sed -i '/> ## XQUARE를 통해 배포된 서비스 보기/,$d' profile/README.md
+            fi
+            cat services.md >> profile/README.md
+          else
+            echo "# Team XQUARE" > profile/README.md
+            echo "" >> profile/README.md
+            cat services.md >> profile/README.md
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "XQUARE GitOps Bot"
+          git config --local user.email "teamxquare@gmail.com"
+          git add profile/README.md
+          git diff --staged --quiet || {
+            git commit -m "docs: update services [skip ci]"
+            git push
+          }
