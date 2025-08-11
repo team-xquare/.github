@@ -148,5 +148,5 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-infra-backend-stag.xquare.app](https://xquare-infra-backend-stag.xquare.app)<br>[xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
 
 
-*마지막 업데이트: 2025-08-11 18:07:11 UTC*
+*마지막 업데이트: 2025-08-11 18:43:35 UTC*
 </details>
