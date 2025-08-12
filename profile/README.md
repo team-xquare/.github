@@ -39,6 +39,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | entry-admission-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [apply.entrydsm.hs.kr](https://apply.entrydsm.hs.kr) |
 | entry-admission-admin-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
 | equus-config-server-stag | [GitHub](https://github.com/EntryDSM/Equus-Config-Server) | [equus-config.xquare.app](https://equus-config.xquare.app)<br>[config-stag.entrydsm.hs.kr](https://config-stag.entrydsm.hs.kr) |
+| casper-recruitment-prod | [GitHub](https://github.com/EntryDSM/Casper-Recruitment) | [prod-entry-casper-recruitment.xquare.app](https://prod-entry-casper-recruitment.xquare.app)<br>[casper-recruitment.entrydsm.hs.kr](https://casper-recruitment.entrydsm.hs.kr) |
+| casper-recruitment-stag | [GitHub](https://github.com/EntryDSM/Casper-Recruitment) | [stag-entry-casper-recruitment.xquare.app](https://stag-entry-casper-recruitment.xquare.app)<br>[casper-recruitment-stag.entrydsm.hs.kr](https://casper-recruitment-stag.entrydsm.hs.kr) |
+| entry-admission-2025-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admission-dev.xquare.app](https://entry-admission-admission-dev.xquare.app)<br>[apply-2025.entrydsm.hs.kr](https://apply-2025.entrydsm.hs.kr) |
+| entry-admission-2025-admin-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admin-dev.xquare.app](https://entry-admission-admin-dev.xquare.app)<br>[admin-2025.entrydsm.hs.kr](https://admin-2025.entrydsm.hs.kr) |
+| entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.xquare.app](https://entry-admission-auth-dev.xquare.app)<br>[auth-2025.entrydsm.hs.kr](https://auth-2025.entrydsm.hs.kr) |
+| entry-admission-2025-user-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-user-dev.xquare.app](https://entry-admission-user-dev.xquare.app)<br>[user-2025.entrydsm.hs.kr](https://user-2025.entrydsm.hs.kr) |
 
 ### PICK
 
