@@ -28,23 +28,22 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| equus-application-prod | [GitHub](https://github.com/EntryDSM/Equus-Application) | [equus-application.xquare.app](https://equus-application.xquare.app)<br>[application.entrydsm.hs.kr](https://application.entrydsm.hs.kr) |
-| equus-api-gateway-prod | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [equus.xquare.app](https://equus.xquare.app)<br>[api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
-| equus-user-prod | [GitHub](https://github.com/EntryDSM/Equus-User) | [equus-feed.xquare.app](https://equus-feed.xquare.app)<br>[user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
-| equus-feed-prod | [GitHub](https://github.com/EntryDSM/Equus-Feed) | [equus-feed.xquare.app](https://equus-feed.xquare.app)<br>[feed.entrydsm.hs.kr](https://feed.entrydsm.hs.kr) |
-| equus-status-prod | [GitHub](https://github.com/EntryDSM/Equus-Status) | [equus-status.xquare.app](https://equus-status.xquare.app)<br>[status.entrydsm.hs.kr](https://status.entrydsm.hs.kr) |
-| equus-schedule-prod | [GitHub](https://github.com/EntryDSM/Equus-Schedule) | [equus-schedule.xquare.app](https://equus-schedule.xquare.app)<br>[schedule.entrydsm.hs.kr](https://schedule.entrydsm.hs.kr) |
+| equus-application-prod | [GitHub](https://github.com/EntryDSM/Equus-Application) | [application.entrydsm.hs.kr](https://application.entrydsm.hs.kr) |
+| equus-api-gateway-prod | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
+| equus-user-prod | [GitHub](https://github.com/EntryDSM/Equus-User) | [user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
+| equus-feed-prod | [GitHub](https://github.com/EntryDSM/Equus-Feed) | [feed.entrydsm.hs.kr](https://feed.entrydsm.hs.kr) |
+| equus-status-prod | [GitHub](https://github.com/EntryDSM/Equus-Status) | [status.entrydsm.hs.kr](https://status.entrydsm.hs.kr) |
+| equus-schedule-prod | [GitHub](https://github.com/EntryDSM/Equus-Schedule) | [schedule.entrydsm.hs.kr](https://schedule.entrydsm.hs.kr) |
 | entry-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
 | entry-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
 | entry-admission-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [apply.entrydsm.hs.kr](https://apply.entrydsm.hs.kr) |
 | entry-admission-admin-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
-| equus-config-server-stag | [GitHub](https://github.com/EntryDSM/Equus-Config-Server) | [equus-config.xquare.app](https://equus-config.xquare.app)<br>[config-stag.entrydsm.hs.kr](https://config-stag.entrydsm.hs.kr) |
-| casper-recruitment-prod | [GitHub](https://github.com/EntryDSM/Casper-Recruitment) | [prod-entry-casper-recruitment.xquare.app](https://prod-entry-casper-recruitment.xquare.app)<br>[casper-recruitment.entrydsm.hs.kr](https://casper-recruitment.entrydsm.hs.kr) |
-| casper-recruitment-stag | [GitHub](https://github.com/EntryDSM/Casper-Recruitment) | [stag-entry-casper-recruitment.xquare.app](https://stag-entry-casper-recruitment.xquare.app)<br>[casper-recruitment-stag.entrydsm.hs.kr](https://casper-recruitment-stag.entrydsm.hs.kr) |
-| entry-admission-2025-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admission-dev.xquare.app](https://entry-admission-admission-dev.xquare.app)<br>[apply-2025.entrydsm.hs.kr](https://apply-2025.entrydsm.hs.kr) |
-| entry-admission-2025-admin-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admin-dev.xquare.app](https://entry-admission-admin-dev.xquare.app)<br>[admin-2025.entrydsm.hs.kr](https://admin-2025.entrydsm.hs.kr) |
-| entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.xquare.app](https://entry-admission-auth-dev.xquare.app)<br>[auth-2025.entrydsm.hs.kr](https://auth-2025.entrydsm.hs.kr) |
-| entry-admission-2025-user-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-user-dev.xquare.app](https://entry-admission-user-dev.xquare.app)<br>[user-2025.entrydsm.hs.kr](https://user-2025.entrydsm.hs.kr) |
+| equus-config-server-stag | [GitHub](https://github.com/EntryDSM/Equus-Config-Server) | [config-stag.entrydsm.hs.kr](https://config-stag.entrydsm.hs.kr) |
+| entry-admission-2025-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admission-dev.entrydsm.hs.kr](https://entry-admission-admission-dev.entrydsm.hs.kr) |
+| entry-admission-2025-admin-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admin-dev.entrydsm.hs.kr](https://entry-admission-admin-dev.entrydsm.hs.kr) |
+| entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.entrydsm.hs.kr](https://entry-admission-auth-dev.entrydsm.hs.kr) |
+| entry-admission-2025-user-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-user-dev.entrydsm.hs.kr](https://entry-admission-user-dev.entrydsm.hs.kr) |
+| casper-config-server-prod | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [entry-admission-api-config-server-dev.entrydsm.hs.kr](https://entry-admission-api-config-server-dev.entrydsm.hs.kr) |
 
 ### PICK
 
@@ -52,10 +51,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | pick-core-prod | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core.dsmhs.kr](https://pick-core.dsmhs.kr) |
 | pick-core-stag | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core-stag.dsmhs.kr](https://pick-core-stag.dsmhs.kr) |
-| pick-admin-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin.xquare.app](https://pick-admin.xquare.app)<br>[pick-admin.dsmhs.kr](https://pick-admin.dsmhs.kr) |
-| pick-admin-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin-stag.xquare.app](https://pick-admin-stag.xquare.app)<br>[pick-admin-stag.dsmhs.kr](https://pick-admin-stag.dsmhs.kr) |
-| pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.xquare.app](https://pick-teacher.xquare.app)<br>[pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
-| pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.xquare.app](https://pick-teacher-stag.xquare.app)<br>[pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
+| pick-admin-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin.dsmhs.kr](https://pick-admin.dsmhs.kr) |
+| pick-admin-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin-stag.dsmhs.kr](https://pick-admin-stag.dsmhs.kr) |
+| pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
+| pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
 
 ### DMS
 
@@ -71,7 +70,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| whopper-prod | [GitHub](https://github.com/DSM-Repo/Whopper) | [whopper.xquare.app](https://whopper.xquare.app)<br>[api.dsm-repo.com](https://api.dsm-repo.com) |
+| whopper-prod | [GitHub](https://github.com/DSM-Repo/Whopper) | [api.dsm-repo.com](https://api.dsm-repo.com) |
 | repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
@@ -80,54 +79,54 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.xquare.app](https://infra.xquare.app)<br>[infra.dsmhs.kr](https://infra.dsmhs.kr) |
-| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.xquare.app](https://infra-stag.xquare.app)<br>[infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
-| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-infra-backend.xquare.app](https://xquare-infra-backend.xquare.app)<br>[xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
-| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-infra-backend-stag.xquare.app](https://xquare-infra-backend-stag.xquare.app)<br>[xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
+| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.dsmhs.kr](https://infra.dsmhs.kr) |
+| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
+| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
+| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
 
 ### DAEMAWIKI
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| daemawiki-prod | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki-server.xquare.app](https://daemawiki-server.xquare.app)<br>[daemawiki.dsmhs.kr](https://daemawiki.dsmhs.kr) |
-| daemawiki-stag | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki-server-stag.xquare.app](https://daemawiki-server-stag.xquare.app)<br>[daemawiki-stag.dsmhs.kr](https://daemawiki-stag.dsmhs.kr) |
+| daemawiki-prod | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki.dsmhs.kr](https://daemawiki.dsmhs.kr) |
+| daemawiki-stag | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki-stag.dsmhs.kr](https://daemawiki-stag.dsmhs.kr) |
 
 ### MOZU
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-prod.xquare.app](https://mozu-prod.xquare.app)<br>[mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
-| mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.xquare.app](https://mozu-stag.xquare.app)<br>[mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
+| mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
+| mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
 
 ### BREMENTOWNMUSICIANS
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| wemeet-stag | [GitHub](https://github.com/BremenMusicians/WeMeet_BE) | [wemeet-prod.xquare.app](https://wemeet-prod.xquare.app)<br>[wemeet.dsmhs.kr](https://wemeet.dsmhs.kr) |
+| wemeet-stag | [GitHub](https://github.com/BremenMusicians/WeMeet_BE) | [wemeet.dsmhs.kr](https://wemeet.dsmhs.kr) |
 
 ### DAEDONG
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| sillok-be-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Sillok_BE) | [sillok-api.xquare.app](https://sillok-api.xquare.app)<br>[sillok-api.dsmhs.kr](https://sillok-api.dsmhs.kr) |
+| sillok-be-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Sillok_BE) | [sillok-api.dsmhs.kr](https://sillok-api.dsmhs.kr) |
 
 ### DAEDONGYEOJIDO
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| whispy-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Whispy_BE) | [whispy.xquare.app](https://whispy.xquare.app)<br>[whispy.dsmhs.kr](https://whispy.dsmhs.kr) |
+| whispy-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Whispy_BE) | [whispy.dsmhs.kr](https://whispy.dsmhs.kr) |
 
 ### DSMAUTHSERVICE
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [prod-server.xquare.app/dsm-login](https://prod-server.xquare.app/dsm-login)<br>[dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
+| dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
 
 ### HELPER
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| helper-prod | [GitHub](https://github.com/Team-LoopCat/Helper_Backend) | [helper.xquare.app](https://helper.xquare.app)<br>[helper.dsmhs.kr](https://helper.dsmhs.kr) |
+| helper-prod | [GitHub](https://github.com/Team-LoopCat/Helper_Backend) | [helper.dsmhs.kr](https://helper.dsmhs.kr) |
 
 ### HIGHTONTEAM8
 
@@ -139,18 +138,18 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura-prod.xquare.app](https://lotura-prod.xquare.app)<br>[lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
+| lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
 
 ### NUNEDDINE
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| nuneddine-deployment-prod | [GitHub](https://github.com/taeyang-s-playGround/Nuneddine) | [nuneddine.xquare.app](https://nuneddine.xquare.app)<br>[nuneddine.dsmhs.kr](https://nuneddine.dsmhs.kr) |
+| nuneddine-deployment-prod | [GitHub](https://github.com/taeyang-s-playGround/Nuneddine) | [nuneddine.dsmhs.kr](https://nuneddine.dsmhs.kr) |
 
 ### SILENTFLOWERS
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| silent-flowers-prod | [GitHub](https://github.com/Silent-flowers-bloom-gracefully/backend) | [silent-flowers.xquare.app](https://silent-flowers.xquare.app)<br>[silent-flowers.dsmhs.kr](https://silent-flowers.dsmhs.kr) |
+| silent-flowers-prod | [GitHub](https://github.com/Silent-flowers-bloom-gracefully/backend) | [silent-flowers.dsmhs.kr](https://silent-flowers.dsmhs.kr) |
 
 </details>
