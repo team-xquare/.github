@@ -132,7 +132,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| backend | [GitHub](https://github.com/HighTon-Team-8/Team8_BE) | [high-ton-team-8.dsmhs.kr](https://high-ton-team-8.dsmhs.kr)<br>[highton-team8.dsmhs.kr](https://highton-team8.dsmhs.kr) |
+| backend | [GitHub](https://github.com/HighTon-Team-8/Team8_BE) | [highton-team8.dsmhs.kr](https://highton-team8.dsmhs.kr) |
 
 ### NONAMED
 
