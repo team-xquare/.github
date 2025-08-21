@@ -28,17 +28,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| equus-application-prod | [GitHub](https://github.com/EntryDSM/Equus-Application) | [application.entrydsm.hs.kr](https://application.entrydsm.hs.kr) |
-| equus-api-gateway-prod | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
-| equus-user-prod | [GitHub](https://github.com/EntryDSM/Equus-User) | [user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
-| equus-feed-prod | [GitHub](https://github.com/EntryDSM/Equus-Feed) | [feed.entrydsm.hs.kr](https://feed.entrydsm.hs.kr) |
-| equus-status-prod | [GitHub](https://github.com/EntryDSM/Equus-Status) | [status.entrydsm.hs.kr](https://status.entrydsm.hs.kr) |
-| equus-schedule-prod | [GitHub](https://github.com/EntryDSM/Equus-Schedule) | [schedule.entrydsm.hs.kr](https://schedule.entrydsm.hs.kr) |
 | entry-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
 | entry-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
 | entry-admission-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [apply.entrydsm.hs.kr](https://apply.entrydsm.hs.kr) |
 | entry-admission-admin-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
-| equus-config-server-stag | [GitHub](https://github.com/EntryDSM/Equus-Config-Server) | [config-stag.entrydsm.hs.kr](https://config-stag.entrydsm.hs.kr) |
 | entry-admission-2025-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admission-dev.entrydsm.hs.kr](https://entry-admission-admission-dev.entrydsm.hs.kr) |
 | entry-admission-2025-admin-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admin-dev.entrydsm.hs.kr](https://entry-admission-admin-dev.entrydsm.hs.kr) |
 | entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.entrydsm.hs.kr](https://entry-admission-auth-dev.entrydsm.hs.kr) |
