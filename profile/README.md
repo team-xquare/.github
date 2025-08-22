@@ -37,6 +37,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.entrydsm.hs.kr](https://entry-admission-auth-dev.entrydsm.hs.kr) |
 | entry-admission-2025-user-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-user-dev.entrydsm.hs.kr](https://entry-admission-user-dev.entrydsm.hs.kr) |
 | casper-config-server-prod | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [entry-admission-api-config-server-dev.entrydsm.hs.kr](https://entry-admission-api-config-server-dev.entrydsm.hs.kr) |
+| casper-feed-stag | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed-dev.entrydsm.hs.kr](https://casper-feed-dev.entrydsm.hs.kr) |
+| casper-user-stag | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user-dev.entrydsm.hs.kr](https://casper-user-dev.entrydsm.hs.kr) |
+| casper-status-stag | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status-dev.entrydsm.hs.kr](https://casper-status-dev.entrydsm.hs.kr) |
+| casper-schedule-stag | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule-dev.entrydsm.hs.kr](https://casper-schedule-dev.entrydsm.hs.kr) |
 
 ### PICK
 
