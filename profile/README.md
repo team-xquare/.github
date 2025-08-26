@@ -42,6 +42,19 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status-stag | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status-dev.entrydsm.hs.kr](https://casper-status-dev.entrydsm.hs.kr) |
 | casper-schedule-stag | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule-dev.entrydsm.hs.kr](https://casper-schedule-dev.entrydsm.hs.kr) |
 
+### JOBIS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| be-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api.dsmhs.kr](https://jobis-api.dsmhs.kr) |
+| be-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api-stag.dsmhs.kr](https://jobis-api-stag.dsmhs.kr) |
+| fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin.dsmhs.kr](https://jobis-admin.dsmhs.kr) |
+| fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin-stag.dsmhs.kr](https://jobis-admin-stag.dsmhs.kr) |
+| fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company.dsmhs.kr](https://jobis-company.dsmhs.kr) |
+| fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
+| fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
+| fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
+
 ### PICK
 
 | Service | GitHub | URL |
