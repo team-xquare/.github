@@ -94,25 +94,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
 | xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
 
-### DAEMAWIKI
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| daemawiki-prod | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki.dsmhs.kr](https://daemawiki.dsmhs.kr) |
-| daemawiki-stag | [GitHub](https://github.com/daemawiki/Claude) | [daemawiki-stag.dsmhs.kr](https://daemawiki-stag.dsmhs.kr) |
-
 ### MOZU
 
 | Service | GitHub | URL |
 |---------|--------|-----|
 | mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
 | mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
-
-### BREMENTOWNMUSICIANS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| wemeet-stag | [GitHub](https://github.com/BremenMusicians/WeMeet_BE) | [wemeet.dsmhs.kr](https://wemeet.dsmhs.kr) |
 
 ### DAEDONG
 
@@ -132,34 +119,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
 
-### HELPER
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| helper-prod | [GitHub](https://github.com/Team-LoopCat/Helper_Backend) | [helper.dsmhs.kr](https://helper.dsmhs.kr) |
-
-### HIGHTONTEAM8
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| backend | [GitHub](https://github.com/HighTon-Team-8/Team8_BE) | [highton-team8.dsmhs.kr](https://highton-team8.dsmhs.kr) |
-
 ### NONAMED
 
 | Service | GitHub | URL |
 |---------|--------|-----|
 | lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
-
-### NUNEDDINE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| nuneddine-deployment-prod | [GitHub](https://github.com/taeyang-s-playGround/Nuneddine) | [nuneddine.dsmhs.kr](https://nuneddine.dsmhs.kr) |
-
-### SILENTFLOWERS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| silent-flowers-prod | [GitHub](https://github.com/Silent-flowers-bloom-gracefully/backend) | [silent-flowers.dsmhs.kr](https://silent-flowers.dsmhs.kr) |
 
 </details>
