@@ -70,8 +70,8 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| dms-backend-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
-| dms-backend-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| dms-main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
 | dms-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
 | dms-frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
 | dms-webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
