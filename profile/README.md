@@ -66,6 +66,17 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
 | pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
 
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.dsmhs.kr](https://infra.dsmhs.kr) |
+| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
+| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
+| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
+| test-backend | [GitHub](https://github.com/team-xquare/test-backend) | [xquare-server.dsmhs.kr](https://xquare-server.dsmhs.kr) |
+| test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
+
 ### DMS
 
 | Service | GitHub | URL |
@@ -84,15 +95,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
-
-### XQUARE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.dsmhs.kr](https://infra.dsmhs.kr) |
-| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
-| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
-| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
 
 ### MOZU
 
