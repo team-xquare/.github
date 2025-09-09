@@ -102,6 +102,8 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
 | mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
+| mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
+| mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
 ### DAEDONG
 
