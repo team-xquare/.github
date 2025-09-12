@@ -28,19 +28,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| entry-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
-| entry-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
-| entry-admission-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [apply.entrydsm.hs.kr](https://apply.entrydsm.hs.kr) |
-| entry-admission-admin-lts-prod | [GitHub](https://github.com/EntryDSM/Entry-Mono) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
-| entry-admission-2025-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admission-dev.entrydsm.hs.kr](https://entry-admission-admission-dev.entrydsm.hs.kr) |
-| entry-admission-2025-admin-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-admin-dev.entrydsm.hs.kr](https://entry-admission-admin-dev.entrydsm.hs.kr) |
-| entry-admission-2025-auth-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-auth-dev.entrydsm.hs.kr](https://entry-admission-auth-dev.entrydsm.hs.kr) |
-| entry-admission-2025-user-prod | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [entry-admission-user-dev.entrydsm.hs.kr](https://entry-admission-user-dev.entrydsm.hs.kr) |
-| casper-config-server-prod | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [entry-admission-api-config-server-dev.entrydsm.hs.kr](https://entry-admission-api-config-server-dev.entrydsm.hs.kr) |
-| casper-feed-stag | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed-dev.entrydsm.hs.kr](https://casper-feed-dev.entrydsm.hs.kr) |
-| casper-user-stag | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user-dev.entrydsm.hs.kr](https://casper-user-dev.entrydsm.hs.kr) |
-| casper-status-stag | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status-dev.entrydsm.hs.kr](https://casper-status-dev.entrydsm.hs.kr) |
-| casper-schedule-stag | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule-dev.entrydsm.hs.kr](https://casper-schedule-dev.entrydsm.hs.kr) |
+| entry-admission | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admission.entrydsm.hs.kr](https://admission.entrydsm.hs.kr) |
+| entry-admin | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
+| entry-auth | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
+| entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
+| casper-config-server | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [config.entrydsm.hs.kr](https://config.entrydsm.hs.kr) |
+| casper-feed | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed.entrydsm.hs.kr](https://casper-feed.entrydsm.hs.kr) |
+| casper-user | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user.entrydsm.hs.kr](https://casper-user.entrydsm.hs.kr) |
+| casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
+| casper-schedule-dev | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
 ### JOBIS
 
