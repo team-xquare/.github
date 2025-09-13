@@ -36,7 +36,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-feed | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed.entrydsm.hs.kr](https://casper-feed.entrydsm.hs.kr) |
 | casper-user | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user.entrydsm.hs.kr](https://casper-user.entrydsm.hs.kr) |
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
-| casper-schedule-dev | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
+| casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
 ### JOBIS
 
