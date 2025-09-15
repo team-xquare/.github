@@ -33,6 +33,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | entry-auth | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
 | entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
 | casper-config-server | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [config.entrydsm.hs.kr](https://config.entrydsm.hs.kr) |
+| casper-application | [GitHub](https://github.com/EntryDSM/Casper-Application) | [casper-application.entrydsm.hs.kr](https://casper-application.entrydsm.hs.kr) |
 | casper-feed | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed.entrydsm.hs.kr](https://casper-feed.entrydsm.hs.kr) |
 | casper-user | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user.entrydsm.hs.kr](https://casper-user.entrydsm.hs.kr) |
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
