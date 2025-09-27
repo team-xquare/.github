@@ -31,7 +31,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | entry-admission | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admission.entrydsm.hs.kr](https://admission.entrydsm.hs.kr) |
 | entry-admin | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
 | entry-auth | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
-| entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [user.entrydsm.hs.kr](https://user.entrydsm.hs.kr) |
+| entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
 | casper-config-server | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [config.entrydsm.hs.kr](https://config.entrydsm.hs.kr) |
 | casper-gate-way | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
 | casper-application | [GitHub](https://github.com/EntryDSM/Casper-Application) | [casper-application.entrydsm.hs.kr](https://casper-application.entrydsm.hs.kr) |
