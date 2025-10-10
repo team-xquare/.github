@@ -72,8 +72,8 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
 | xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
 | xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
-| test-backend | [GitHub](https://github.com/team-xquare/test-backend) | [xquare-server.dsmhs.kr](https://xquare-server.dsmhs.kr) |
-| test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
+| test-backend | [GitHub](https://github.com/team-xquare/test-backend) | No routes |
+| test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | No routes |
 
 ### DMS
 
@@ -120,6 +120,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
+
+### GRAMTEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
 
 ### NONAMED
 
