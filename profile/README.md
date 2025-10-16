@@ -53,6 +53,17 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
 | fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
 
+### DMS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| dms-main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| dms-gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| dms-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
+| dms-frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
+| dms-webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
+
 ### PICK
 
 | Service | GitHub | URL |
@@ -74,16 +85,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
 | test-backend | [GitHub](https://github.com/team-xquare/test-backend) | No routes |
 | test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | No routes |
-
-### DMS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
-| dms-main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
-| dms-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
-| dms-frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
-| dms-webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
 
 ### DSMREPO
 
