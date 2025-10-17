@@ -57,9 +57,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | dms-main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | dms-gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| dms-gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
 | dms-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
 | dms-frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
 | dms-webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
@@ -104,6 +105,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
 | mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
+### YEIT
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| image-analysis-server | [GitHub](https://github.com/team-yeit/image-analysis-server) | [yeit-image-api.dsmhs.kr](https://yeit-image-api.dsmhs.kr) |
+| intent-recognition-server | [GitHub](https://github.com/team-yeit/intent-recognition-server) | [yeit-intent-recognition-api.dsmhs.kr](https://yeit-intent-recognition-api.dsmhs.kr) |
+
 ### DAEDONG
 
 | Service | GitHub | URL |
@@ -127,6 +135,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
+
+### GUJEUKCHECKIN
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 
 ### NONAMED
 
