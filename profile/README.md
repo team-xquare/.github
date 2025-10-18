@@ -105,6 +105,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
 | mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
+### GUJEUKCHECKIN
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
+| frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
+
 ### YEIT
 
 | Service | GitHub | URL |
@@ -135,12 +142,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
-
-### GUJEUKCHECKIN
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 
 ### NONAMED
 
