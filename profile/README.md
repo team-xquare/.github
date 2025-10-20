@@ -40,6 +40,20 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
+### DMS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
+| webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
+
 ### JOBIS
 
 | Service | GitHub | URL |
@@ -52,18 +66,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
 | fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
 | fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
-
-### DMS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| dms-main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| dms-main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| dms-gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
-| dms-gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
-| dms-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
-| dms-frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
-| dms-webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
 
 ### PICK
 
@@ -111,6 +113,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
+
+### WSTEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/team-xquare/ws-test) | [wstest.dsmhs.kr](https://wstest.dsmhs.kr) |
+| client | [GitHub](https://github.com/team-xquare/ws-test) | No routes |
 
 ### YEIT
 
