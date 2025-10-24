@@ -40,11 +40,108 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
+### DMS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
+| webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
+| gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+
+### JOBIS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| be-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api.dsmhs.kr](https://jobis-api.dsmhs.kr) |
+| be-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api-stag.dsmhs.kr](https://jobis-api-stag.dsmhs.kr) |
+| fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin.dsmhs.kr](https://jobis-admin.dsmhs.kr) |
+| fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin-stag.dsmhs.kr](https://jobis-admin-stag.dsmhs.kr) |
+| fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company.dsmhs.kr](https://jobis-company.dsmhs.kr) |
+| fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
+| fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
+| fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
+
+### PICK
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| pick-core-prod | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core.dsmhs.kr](https://pick-core.dsmhs.kr) |
+| pick-core-stag | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core-stag.dsmhs.kr](https://pick-core-stag.dsmhs.kr) |
+| pick-admin-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin.dsmhs.kr](https://pick-admin.dsmhs.kr) |
+| pick-admin-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin-stag.dsmhs.kr](https://pick-admin-stag.dsmhs.kr) |
+| pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
+| pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
+
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.dsmhs.kr](https://infra.dsmhs.kr) |
+| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
+| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
+| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
+| test-backend | [GitHub](https://github.com/team-xquare/test-backend) | No routes |
+| test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | No routes |
+
+### DSMREPO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| whopper-prod | [GitHub](https://github.com/DSM-Repo/Whopper) | [api.dsm-repo.com](https://api.dsm-repo.com) |
+| repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
+| repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
+| repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
+
+### MOZU
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
+| mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
+| mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
+| mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
+
 ### GUJEUKCHECKIN
 
 | Service | GitHub | URL |
 |---------|--------|-----|
 | server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
+
+### DAEDONG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| sillok-be-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Sillok_BE) | [sillok-api.dsmhs.kr](https://sillok-api.dsmhs.kr) |
+
+### DAEDONGYEOJIDO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| whispy-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Whispy_BE) | [whispy.dsmhs.kr](https://whispy.dsmhs.kr) |
+
+### DSMAUTHSERVICE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
+
+### GRAMTEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
+
+### NONAMED
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
 
 </details>
