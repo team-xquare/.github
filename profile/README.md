@@ -78,17 +78,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
 | pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
 
-### XQUARE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| xquare-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra.dsmhs.kr](https://infra.dsmhs.kr) |
-| xquare-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-frontend-v2) | [infra-stag.dsmhs.kr](https://infra-stag.dsmhs.kr) |
-| xquare-infra-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api.dsmhs.kr](https://xquare-api.dsmhs.kr) |
-| xquare-infra-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend) | [xquare-api-stag.dsmhs.kr](https://xquare-api-stag.dsmhs.kr) |
-| test-backend | [GitHub](https://github.com/team-xquare/test-backend) | No routes |
-| test-frontend | [GitHub](https://github.com/team-xquare/test-frontend) | No routes |
-
 ### DSMREPO
 
 | Service | GitHub | URL |
