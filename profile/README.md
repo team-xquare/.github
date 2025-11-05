@@ -139,4 +139,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | server | [GitHub](https://github.com/Team-Weero/weero-server-v2) | [weero-api.dsmhs.kr](https://weero-api.dsmhs.kr) |
 
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| s3-test-app | [GitHub](https://github.com/team-xquare/s3-test-app) | [s3-test.dsmhs.kr](https://s3-test.dsmhs.kr) |
+
 </details>
