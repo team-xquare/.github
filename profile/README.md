@@ -96,6 +96,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
 | mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
+### REFO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| refo-gateway | [GitHub](https://github.com/team-exit-1/gateway) | [refo-hackerton.dsmhs.kr](https://refo-hackerton.dsmhs.kr) |
+| refo-core | [GitHub](https://github.com/team-exit-1/core) | [refo-core-hackerton.dsmhs.kr](https://refo-core-hackerton.dsmhs.kr) |
+| refo-llm | [GitHub](https://github.com/team-exit-1/llm) | [refo-llm-hackerton.dsmhs.kr](https://refo-llm-hackerton.dsmhs.kr) |
+| refo-rag | [GitHub](https://github.com/team-exit-1/rag) | [refo-rag-hackerton.dsmhs.kr](https://refo-rag-hackerton.dsmhs.kr) |
+
 ### GUJEUKCHECKIN
 
 | Service | GitHub | URL |
@@ -132,6 +141,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
+
+### TEAM12
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| api | [GitHub](https://github.com/sw-meister-team-12/server) | [team-12-api.dsmhs.kr](https://team-12-api.dsmhs.kr) |
 
 ### WEERO
 
