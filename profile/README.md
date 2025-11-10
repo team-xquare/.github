@@ -145,4 +145,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | s3-test-app | [GitHub](https://github.com/team-xquare/s3-test-app) | [s3-test.dsmhs.kr](https://s3-test.dsmhs.kr) |
 
+### YUON
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/team-xquare/server) | [yuon-api.dsmhs.kr](https://yuon-api.dsmhs.kr) |
+
 </details>
