@@ -40,6 +40,22 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
+### JOBIS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| be-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api.dsmhs.kr](https://jobis-api.dsmhs.kr) |
+| be-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api-stag.dsmhs.kr](https://jobis-api-stag.dsmhs.kr) |
+| fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin.dsmhs.kr](https://jobis-admin.dsmhs.kr) |
+| fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin-stag.dsmhs.kr](https://jobis-admin-stag.dsmhs.kr) |
+| fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company.dsmhs.kr](https://jobis-company.dsmhs.kr) |
+| fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
+| fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
+| fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
+| v1-fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis-stag.dsmhs.kr](https://v1-jobis-stag.dsmhs.kr) |
+| v1-fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin-stag.dsmhs.kr](https://v1-jobis-admin-stag.dsmhs.kr) |
+| v1-fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-COMPANY-FE) | [v1-jobis-company-stag.dsmhs.kr](https://v1-jobis-company-stag.dsmhs.kr) |
+
 ### DMS
 
 | Service | GitHub | URL |
@@ -53,19 +69,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-
-### JOBIS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| be-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api.dsmhs.kr](https://jobis-api.dsmhs.kr) |
-| be-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api-stag.dsmhs.kr](https://jobis-api-stag.dsmhs.kr) |
-| fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin.dsmhs.kr](https://jobis-admin.dsmhs.kr) |
-| fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin-stag.dsmhs.kr](https://jobis-admin-stag.dsmhs.kr) |
-| fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company.dsmhs.kr](https://jobis-company.dsmhs.kr) |
-| fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
-| fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
-| fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
 
 ### PICK
 
