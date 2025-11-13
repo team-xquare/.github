@@ -24,22 +24,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 <details>
 <summary><h3>XQUARE를 통해 배포된 서비스 보기</h3></summary>
 
-### ENTRY
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| entry-admission | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admission.entrydsm.hs.kr](https://admission.entrydsm.hs.kr) |
-| entry-admin | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
-| entry-auth | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
-| entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
-| casper-config-server | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [config.entrydsm.hs.kr](https://config.entrydsm.hs.kr) |
-| casper-gate-way | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
-| casper-application | [GitHub](https://github.com/EntryDSM/Casper-Application) | [casper-application.entrydsm.hs.kr](https://casper-application.entrydsm.hs.kr) |
-| casper-feed | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed.entrydsm.hs.kr](https://casper-feed.entrydsm.hs.kr) |
-| casper-user | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user.entrydsm.hs.kr](https://casper-user.entrydsm.hs.kr) |
-| casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
-| casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
-
 ### JOBIS
 
 | Service | GitHub | URL |
@@ -55,6 +39,24 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | v1-fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis-stag.dsmhs.kr](https://v1-jobis-stag.dsmhs.kr) |
 | v1-fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin-stag.dsmhs.kr](https://v1-jobis-admin-stag.dsmhs.kr) |
 | v1-fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-COMPANY-FE) | [v1-jobis-company-stag.dsmhs.kr](https://v1-jobis-company-stag.dsmhs.kr) |
+| fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
+| fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
+
+### ENTRY
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| entry-admission | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admission.entrydsm.hs.kr](https://admission.entrydsm.hs.kr) |
+| entry-admin | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [admin.entrydsm.hs.kr](https://admin.entrydsm.hs.kr) |
+| entry-auth | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [auth.entrydsm.hs.kr](https://auth.entrydsm.hs.kr) |
+| entry-user | [GitHub](https://github.com/EntryDSM/Entry-Admission) | [www.entrydsm.hs.kr](https://www.entrydsm.hs.kr) |
+| casper-config-server | [GitHub](https://github.com/EntryDSM/Casper-Config-Server) | [config.entrydsm.hs.kr](https://config.entrydsm.hs.kr) |
+| casper-gate-way | [GitHub](https://github.com/EntryDSM/Equus-Api-Gateway) | [api.entrydsm.hs.kr](https://api.entrydsm.hs.kr) |
+| casper-application | [GitHub](https://github.com/EntryDSM/Casper-Application) | [casper-application.entrydsm.hs.kr](https://casper-application.entrydsm.hs.kr) |
+| casper-feed | [GitHub](https://github.com/EntryDSM/Casper-Feed) | [casper-feed.entrydsm.hs.kr](https://casper-feed.entrydsm.hs.kr) |
+| casper-user | [GitHub](https://github.com/EntryDSM/Casper-User) | [casper-user.entrydsm.hs.kr](https://casper-user.entrydsm.hs.kr) |
+| casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
+| casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 
 ### DMS
 
@@ -152,6 +154,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| server | [GitHub](https://github.com/team-xquare/server) | [yuon-api.dsmhs.kr](https://yuon-api.dsmhs.kr) |
+| server | [GitHub](https://github.com/team-yuon/server) | [yuon-api.dsmhs.kr](https://yuon-api.dsmhs.kr) |
 
 </details>
