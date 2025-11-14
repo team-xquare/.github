@@ -108,6 +108,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| s3-test-app | [GitHub](https://github.com/team-xquare/s3-test-app) | [s3-test.dsmhs.kr](https://s3-test.dsmhs.kr) |
+| infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
+
 ### DAEDONG
 
 | Service | GitHub | URL |
@@ -143,12 +150,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | server | [GitHub](https://github.com/Team-Weero/weero-server-v2) | [weero-api.dsmhs.kr](https://weero-api.dsmhs.kr) |
-
-### XQUARE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| s3-test-app | [GitHub](https://github.com/team-xquare/s3-test-app) | [s3-test.dsmhs.kr](https://s3-test.dsmhs.kr) |
 
 ### YUON
 
