@@ -145,6 +145,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
 
+### TEACHER
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| teacher-prod | [GitHub](https://github.com/SeoMuseong/DSMLearnCast) | [learn.dsmhs.kr](https://learn.dsmhs.kr) |
+
 ### WEERO
 
 | Service | GitHub | URL |
