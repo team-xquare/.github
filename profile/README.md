@@ -152,6 +152,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
 
+### LEEJH08
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| leejh08 | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
+
 ### NONAMED
 
 | Service | GitHub | URL |
