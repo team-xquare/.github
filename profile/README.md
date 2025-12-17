@@ -108,6 +108,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 
+### NONAMED
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| osj-be-prod | [GitHub](https://github.com/OSJ-v3/OSJ_V3_BE) | [osj.dsmhs.kr](https://osj.dsmhs.kr) |
+| osj-be-stag | [GitHub](https://github.com/OSJ-v3/OSJ_V3_BE) | [osj-stag.dsmhs.kr](https://osj-stag.dsmhs.kr) |
+
 ### OIL
 
 | Service | GitHub | URL |
@@ -157,12 +164,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | leejh08 | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
-
-### NONAMED
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| lotura-prod | [GitHub](https://github.com/team-osj/Lotura_BackEnd_V2) | [lotura.dsmhs.kr](https://lotura.dsmhs.kr) |
 
 ### TEACHER
 
