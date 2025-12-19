@@ -126,7 +126,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| s3-test-app | [GitHub](https://github.com/team-xquare/s3-test-app) | [s3-test.dsmhs.kr](https://s3-test.dsmhs.kr) |
+| xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
 | infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
 
 ### DAEDONG
