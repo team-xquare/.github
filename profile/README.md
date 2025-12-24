@@ -108,6 +108,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 
+### LEEJH08
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| gifty-prod | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
+| gifty-dev | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api-dev.dsmhs.kr](https://leejh08-gifty-api-dev.dsmhs.kr) |
+
 ### NONAMED
 
 | Service | GitHub | URL |
@@ -158,12 +165,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
-
-### LEEJH08
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| leejh08 | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
 
 ### TEACHER
 
