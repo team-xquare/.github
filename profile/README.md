@@ -101,6 +101,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
 | mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
+### DEUKNET
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| deuknet-be-prod | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api.dsmhs.kr](https://deuknet-api.dsmhs.kr) |
+| deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
+| deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
+
 ### GUJEUKCHECKIN
 
 | Service | GitHub | URL |
