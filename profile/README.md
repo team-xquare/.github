@@ -123,6 +123,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | gifty-prod | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
 | gifty-dev | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api-dev.dsmhs.kr](https://leejh08-gifty-api-dev.dsmhs.kr) |
 
+### MOHAENG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
+| be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
+
 ### NONAMED
 
 | Service | GitHub | URL |
@@ -143,6 +150,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
 | infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
+
+### TEST1
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| Team1-DAEXI-FE | [GitHub](https://github.com/Team-DBE/DAEXI-fe) | [www.daexi.dsmhs.kr](https://www.daexi.dsmhs.kr) |
 
 ### DAEDONG
 
