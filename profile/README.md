@@ -109,6 +109,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
 
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
+| infra-backend-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend-stag.dsmhs.kr](https://infra-backend-stag.dsmhs.kr) |
+| infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
+
 ### GUJEUKCHECKIN
 
 | Service | GitHub | URL |
@@ -144,18 +152,11 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
-### XQUARE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
-| infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
-
 ### TEST1
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| Team1-DAEXI-FE | [GitHub](https://github.com/Team-DBE/DAEXI-fe) | [www.daexi.dsmhs.kr](https://www.daexi.dsmhs.kr) |
+| Team1-DAEXI-FE | [GitHub](https://github.com/Team-DBE/DAEXI-fe) | [www.daexi.dsmhs.kr](https://www.daexi.dsmhs.kr)<br>[www.test.dsmhs.kr](https://www.test.dsmhs.kr) |
 
 ### DAEDONG
 
