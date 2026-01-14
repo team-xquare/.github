@@ -84,6 +84,16 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | pick-teacher-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher.dsmhs.kr](https://pick-teacher.dsmhs.kr) |
 | pick-teacher-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_TEACHER_V2) | [pick-teacher-stag.dsmhs.kr](https://pick-teacher-stag.dsmhs.kr) |
 
+### XQUARE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
+| infra-backend-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend-stag.dsmhs.kr](https://infra-backend-stag.dsmhs.kr) |
+| infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
+| infra-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare-stag.dsmhs.kr](https://xquare-stag.dsmhs.kr) |
+| infra-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
+
 ### DSMREPO
 
 | Service | GitHub | URL |
@@ -109,14 +119,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-prod | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api.dsmhs.kr](https://deuknet-api.dsmhs.kr) |
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
-
-### XQUARE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| xquare-supporter-prod | [GitHub](https://github.com/team-xquare/xquare-community-manager) | No routes |
-| infra-backend-stag | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend-stag.dsmhs.kr](https://infra-backend-stag.dsmhs.kr) |
-| infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
 
 ### GUJEUKCHECKIN
 
