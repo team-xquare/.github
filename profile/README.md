@@ -103,6 +103,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
 
+### GUJEUKCHECKIN
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
+| server-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api-stag.dsmhs.kr](https://gujeuk-api-stag.dsmhs.kr) |
+| frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk-stag.dsmhs.kr](https://gujeuk-stag.dsmhs.kr) |
+
 ### MOZU
 
 | Service | GitHub | URL |
@@ -119,13 +128,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-prod | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api.dsmhs.kr](https://deuknet-api.dsmhs.kr) |
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
-
-### GUJEUKCHECKIN
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
-| frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 
 ### LEEJH08
 
