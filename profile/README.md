@@ -38,7 +38,10 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
 | v1-fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis-stag.dsmhs.kr](https://v1-jobis-stag.dsmhs.kr) |
 | v1-fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin-stag.dsmhs.kr](https://v1-jobis-admin-stag.dsmhs.kr) |
-| v1-fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-COMPANY-FE) | [v1-jobis-company-stag.dsmhs.kr](https://v1-jobis-company-stag.dsmhs.kr) |
+| v1-fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company-stag.dsmhs.kr](https://v1-jobis-company-stag.dsmhs.kr) |
+| v1-fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis.dsmhs.kr](https://v1-jobis.dsmhs.kr) |
+| v1-fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin.dsmhs.kr](https://v1-jobis-admin.dsmhs.kr) |
+| v1-fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company.dsmhs.kr](https://v1-jobis-company.dsmhs.kr) |
 | fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
 | fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
 
