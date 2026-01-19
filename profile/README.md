@@ -80,7 +80,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| pick-core-prod | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core.dsmhs.kr](https://pick-core.dsmhs.kr) |
+| pick-core-prod | [GitHub](https://github.com/DSM-PICK/PiCK_CORE_SERVER) | [pick-core.dsm.hs.kr/](https://pick-core.dsm.hs.kr/) |
 | pick-core-stag | [GitHub](https://github.com/DSM-PICK/PICK_CORE_SERVER) | [pick-core-stag.dsmhs.kr](https://pick-core-stag.dsmhs.kr) |
 | pick-admin-prod | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin.dsmhs.kr](https://pick-admin.dsmhs.kr) |
 | pick-admin-stag | [GitHub](https://github.com/DSM-PICK/PiCK2024_FRONT_V2) | [pick-admin-stag.dsmhs.kr](https://pick-admin-stag.dsmhs.kr) |
@@ -183,6 +183,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
+
+### ECHO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| ehco-be | [GitHub](https://github.com/Echo-dsm/Echo-BE) | [echo.dsmhs.kr](https://echo.dsmhs.kr) |
 
 ### GRAMTEST
 
