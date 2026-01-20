@@ -160,12 +160,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
-### TEST1
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| Team1-DAEXI-FE | [GitHub](https://github.com/Team-DBE/DAEXI-fe) | [www.daexi.dsmhs.kr](https://www.daexi.dsmhs.kr)<br>[www.test.dsmhs.kr](https://www.test.dsmhs.kr) |
-
 ### DAEDONG
 
 | Service | GitHub | URL |
