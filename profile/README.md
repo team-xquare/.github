@@ -182,7 +182,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| ehco-be | [GitHub](https://github.com/Echo-dsm/Echo-BE) | [echo.dsmhs.kr](https://echo.dsmhs.kr) |
+| echo-be | [GitHub](https://github.com/Echo-dsm/Echo-BE) | [echo-be.dsmhs.kr](https://echo-be.dsmhs.kr) |
 
 ### GRAMTEST
 
