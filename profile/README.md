@@ -132,6 +132,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
 
+### ECHO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| echo-be | [GitHub](https://github.com/Echo-dsm/Echo-BE) | [echo-be.dsmhs.kr](https://echo-be.dsmhs.kr) |
+| echo-be-stag | [GitHub](https://github.com/gh7035/Echo-BE-fork) | [echo-be-stag.dsmhs.kr](https://echo-be-stag.dsmhs.kr) |
+
 ### LEEJH08
 
 | Service | GitHub | URL |
@@ -177,12 +184,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
-
-### ECHO
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| echo-be | [GitHub](https://github.com/Echo-dsm/Echo-BE) | [echo-be.dsmhs.kr](https://echo-be.dsmhs.kr) |
 
 ### GRAMTEST
 
