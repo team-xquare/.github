@@ -196,6 +196,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | teacher-prod | [GitHub](https://github.com/SeoMuseong/DSMLearnCast) | [learn.dsmhs.kr](https://learn.dsmhs.kr) |
 
+### TEAMDBE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms.dsmhs.kr](https://bms.dsmhs.kr) |
+
 ### TILT
 
 | Service | GitHub | URL |
