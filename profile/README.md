@@ -200,7 +200,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms.dsmhs.kr](https://bms.dsmhs.kr) |
+| bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
 
 ### TILT
 
