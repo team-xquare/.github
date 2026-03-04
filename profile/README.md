@@ -172,6 +172,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | whispy-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Whispy_BE) | [whispy.dsmhs.kr](https://whispy.dsmhs.kr) |
 
+### DSG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dsg | [GitHub](https://github.com/2026DSG/DSG_Backend) | [dsg.dsmhs.kr](https://dsg.dsmhs.kr) |
+
 ### DSMAUTHSERVICE
 
 | Service | GitHub | URL |
