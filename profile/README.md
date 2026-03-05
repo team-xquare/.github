@@ -132,6 +132,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
 
+### DSG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dsg | [GitHub](https://github.com/2026DSG/DSG_Backend) | [dsg-api.dsmhs.kr](https://dsg-api.dsmhs.kr) |
+| dsg-fe | [GitHub](https://github.com/2026DSG/DSG_Frontend) | [dsg.dsmhs.kr](https://dsg.dsmhs.kr) |
+
 ### LEEJH08
 
 | Service | GitHub | URL |
@@ -171,12 +178,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | whispy-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Whispy_BE) | [whispy.dsmhs.kr](https://whispy.dsmhs.kr) |
-
-### DSG
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| dsg | [GitHub](https://github.com/2026DSG/DSG_Backend) | [dsg.dsmhs.kr](https://dsg.dsmhs.kr) |
 
 ### DSMAUTHSERVICE
 
