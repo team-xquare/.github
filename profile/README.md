@@ -167,6 +167,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
+### BOGO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| bogo | [GitHub](https://github.com/Bogo-dsm/bogo_server) | [bodo.dsmhs.kr](https://bodo.dsmhs.kr) |
+
 ### DAEDONG
 
 | Service | GitHub | URL |
