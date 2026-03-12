@@ -96,6 +96,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | infra-backend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-backend-v3) | [infra-backend.dsmhs.kr](https://infra-backend.dsmhs.kr) |
 | infra-frontend-stag | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare-stag.dsmhs.kr](https://xquare-stag.dsmhs.kr) |
 | infra-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
+| xquare-server | [GitHub](https://github.com/team-xquare/xquare-server) | [xquare-server.dsmhs.kr](https://xquare-server.dsmhs.kr) |
 
 ### DSMREPO
 
@@ -167,6 +168,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
+### UX-ROUND3
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/team-xquare/xquare-cli) | No routes |
+| frontend | [GitHub](https://github.com/team-xquare/xquare-cli) | [frontend.dsmhs.kr](https://frontend.dsmhs.kr) |
+
 ### BOGO
 
 | Service | GitHub | URL |
@@ -214,6 +222,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
+
+### TEST-CLI-DEPLOY
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| test-python | [GitHub](https://github.com/team-xquare/test-python-app) | No routes |
 
 ### TILT
 
