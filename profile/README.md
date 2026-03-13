@@ -168,12 +168,19 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
-### UX-ROUND3
+### REALCHAT
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| backend | [GitHub](https://github.com/team-xquare/xquare-cli) | No routes |
-| frontend | [GitHub](https://github.com/team-xquare/xquare-cli) | [frontend.dsmhs.kr](https://frontend.dsmhs.kr) |
+| chat-server | [GitHub](https://github.com/afjuiekafdjsf/chat-server) | [chat-api.dsmhs.kr](https://chat-api.dsmhs.kr) |
+| chat-client | [GitHub](https://github.com/afjuiekafdjsf/chat-client) | [chat.dsmhs.kr](https://chat.dsmhs.kr) |
+
+### TODOAPP
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| todo-server | [GitHub](https://github.com/afjuiekafdjsf/todo-server) | [todo-api.dsmhs.kr](https://todo-api.dsmhs.kr) |
+| todo-client | [GitHub](https://github.com/afjuiekafdjsf/todo-client) | [todo.dsmhs.kr](https://todo.dsmhs.kr) |
 
 ### BOGO
 
@@ -222,12 +229,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
-
-### TEST-CLI-DEPLOY
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| test-python | [GitHub](https://github.com/team-xquare/test-python-app) | No routes |
 
 ### TILT
 
