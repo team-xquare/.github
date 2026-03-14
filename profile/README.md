@@ -76,6 +76,18 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 
+### NEXUS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| nexus-gateway | [GitHub](https://github.com/afjuiekafdjsf/nexus-gateway) | No routes |
+| nexus-user | [GitHub](https://github.com/afjuiekafdjsf/nexus-user) | No routes |
+| nexus-post | [GitHub](https://github.com/afjuiekafdjsf/nexus-post) | No routes |
+| nexus-search | [GitHub](https://github.com/afjuiekafdjsf/nexus-search) | No routes |
+| nexus-web | [GitHub](https://github.com/afjuiekafdjsf/nexus-web) | [nexus.dsmhs.kr](https://nexus.dsmhs.kr) |
+| nexus-notification | [GitHub](https://github.com/afjuiekafdjsf/nexus-notification) | No routes |
+| nexus-dm | [GitHub](https://github.com/afjuiekafdjsf/nexus-dm) | No routes |
+
 ### PICK
 
 | Service | GitHub | URL |
@@ -212,11 +224,23 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
 
+### GUPSIKBULK
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
+
 ### JAKBU
 
 | Service | GitHub | URL |
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
+
+### STATUSCHAT
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| statuschat | [GitHub](https://github.com/1408bg/status-chat) | [status-chat.dsmhs.kr](https://status-chat.dsmhs.kr) |
 
 ### TEACHER
 
@@ -235,6 +259,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | tilt-dsm-prod | [GitHub](https://github.com/TILT-DSM/TILT_SERVER) | [tilt-api.dsmhs.kr](https://tilt-api.dsmhs.kr) |
+
+### TODOLIST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| todo-list | [GitHub](https://github.com/k-siwoo/todo-list) | [todo-list-k-siwoo.dsmhs.kr](https://todo-list-k-siwoo.dsmhs.kr) |
 
 ### WEERO
 
