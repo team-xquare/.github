@@ -80,13 +80,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| nexus-gateway | [GitHub](https://github.com/afjuiekafdjsf/nexus-gateway) | No routes |
-| nexus-user | [GitHub](https://github.com/afjuiekafdjsf/nexus-user) | No routes |
-| nexus-post | [GitHub](https://github.com/afjuiekafdjsf/nexus-post) | No routes |
-| nexus-search | [GitHub](https://github.com/afjuiekafdjsf/nexus-search) | No routes |
-| nexus-web | [GitHub](https://github.com/afjuiekafdjsf/nexus-web) | [nexus.dsmhs.kr](https://nexus.dsmhs.kr) |
-| nexus-notification | [GitHub](https://github.com/afjuiekafdjsf/nexus-notification) | No routes |
-| nexus-dm | [GitHub](https://github.com/afjuiekafdjsf/nexus-dm) | No routes |
+| nexus-gateway | [GitHub](https://github.com/nxs-hub/nexus-gateway) | No routes |
+| nexus-user | [GitHub](https://github.com/nxs-hub/nexus-user) | No routes |
+| nexus-post | [GitHub](https://github.com/nxs-hub/nexus-post) | No routes |
+| nexus-search | [GitHub](https://github.com/nxs-hub/nexus-search) | No routes |
+| nexus-web | [GitHub](https://github.com/nxs-hub/nexus-web) | [nexus.dsmhs.kr](https://nexus.dsmhs.kr) |
+| nexus-notification | [GitHub](https://github.com/nxs-hub/nexus-notification) | No routes |
+| nexus-dm | [GitHub](https://github.com/nxs-hub/nexus-dm) | No routes |
 
 ### PICK
 
