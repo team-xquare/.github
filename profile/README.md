@@ -128,6 +128,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 | frontend-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk-stag.dsmhs.kr](https://gujeuk-stag.dsmhs.kr) |
 
+### GUPSIKBULK
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
+| frontend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk.dsmhs.kr](https://gupsikbulk.dsmhs.kr) |
+| backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
+
 ### MOZU
 
 | Service | GitHub | URL |
@@ -180,19 +189,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
-### REALCHAT
+### WHISKCLONE
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| chat-server | [GitHub](https://github.com/afjuiekafdjsf/chat-server) | [chat-api.dsmhs.kr](https://chat-api.dsmhs.kr) |
-| chat-client | [GitHub](https://github.com/afjuiekafdjsf/chat-client) | [chat.dsmhs.kr](https://chat.dsmhs.kr) |
-
-### TODOAPP
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| todo-server | [GitHub](https://github.com/afjuiekafdjsf/todo-server) | [todo-api.dsmhs.kr](https://todo-api.dsmhs.kr) |
-| todo-client | [GitHub](https://github.com/afjuiekafdjsf/todo-client) | [todo.dsmhs.kr](https://todo.dsmhs.kr) |
+| whisk-backend | [GitHub](https://github.com/synthframe/whisk-clone-backend) | [whisk-backend.dsmhs.kr](https://whisk-backend.dsmhs.kr) |
+| whisk-frontend | [GitHub](https://github.com/synthframe/whisk-clone-frontend) | [whisk-frontend.dsmhs.kr](https://whisk-frontend.dsmhs.kr) |
 
 ### BOGO
 
@@ -223,12 +225,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
-
-### GUPSIKBULK
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
 
 ### JAKBU
 
