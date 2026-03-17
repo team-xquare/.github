@@ -110,6 +110,16 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | infra-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
 | xquare-server | [GitHub](https://github.com/team-xquare/xquare-server) | [xquare-server.dsmhs.kr](https://xquare-server.dsmhs.kr) |
 
+### PRIVATECALL
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| api | [GitHub](https://github.com/dfhgiudhv/privatecall-api) | [api.dsmhs.kr](https://api.dsmhs.kr) |
+| freeswitch | [GitHub](https://github.com/dfhgiudhv/privatecall-freeswitch) | No routes |
+| tor | [GitHub](https://github.com/dfhgiudhv/privatecall-tor) | No routes |
+| monero | [GitHub](https://github.com/dfhgiudhv/privatecall-monero) | No routes |
+| web | [GitHub](https://github.com/dfhgiudhv/privatecall-web) | [privatecall.dsmhs.kr](https://privatecall.dsmhs.kr) |
+
 ### DSMREPO
 
 | Service | GitHub | URL |
@@ -231,6 +241,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
+
+### MOTIVEET
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| fe | [GitHub](https://github.com/team-gozip/motiveet_FE) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
 
 ### STATUSCHAT
 
