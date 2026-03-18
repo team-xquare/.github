@@ -114,11 +114,11 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| api | [GitHub](https://github.com/dfhgiudhv/privatecall-api) | [api.dsmhs.kr](https://api.dsmhs.kr) |
-| freeswitch | [GitHub](https://github.com/dfhgiudhv/privatecall-freeswitch) | No routes |
-| tor | [GitHub](https://github.com/dfhgiudhv/privatecall-tor) | No routes |
-| monero | [GitHub](https://github.com/dfhgiudhv/privatecall-monero) | No routes |
-| web | [GitHub](https://github.com/dfhgiudhv/privatecall-web) | [privatecall.dsmhs.kr](https://privatecall.dsmhs.kr) |
+| api | [GitHub](https://github.com/veilcall/api) | [api.dsmhs.kr](https://api.dsmhs.kr) |
+| freeswitch | [GitHub](https://github.com/veilcall/freeswitch) | No routes |
+| tor | [GitHub](https://github.com/veilcall/tor) | No routes |
+| monero | [GitHub](https://github.com/veilcall/monero) | No routes |
+| web | [GitHub](https://github.com/veilcall/web) | [veilcall.dsmhs.kr](https://veilcall.dsmhs.kr) |
 
 ### DSMREPO
 
@@ -163,6 +163,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-prod | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api.dsmhs.kr](https://deuknet-api.dsmhs.kr) |
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
+
+### VONIQ
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| api | [GitHub](https://github.com/voniq/api) | [voniq-api.dsmhs.kr](https://voniq-api.dsmhs.kr) |
+| web | [GitHub](https://github.com/voniq/web) | [voniq.dsmhs.kr](https://voniq.dsmhs.kr) |
+| freeswitch | [GitHub](https://github.com/voniq/freeswitch) | No routes |
 
 ### DSG
 
