@@ -193,6 +193,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
 
+### MOTIVEET
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| fe | [GitHub](https://github.com/team-gozip/motiveet_FE) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
+| be | [GitHub](https://github.com/team-gozip/motiveet-be) | [motiveet-api.dsmhs.kr](https://motiveet-api.dsmhs.kr) |
+
 ### NONAMED
 
 | Service | GitHub | URL |
@@ -249,12 +256,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
-
-### MOTIVEET
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| fe | [GitHub](https://github.com/team-gozip/motiveet_FE) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
 
 ### STATUSCHAT
 
