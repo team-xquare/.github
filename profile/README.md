@@ -164,6 +164,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
 | deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
 
+### SIGNSAFE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| signsafe-api | [GitHub](https://github.com/signsafe-io/signsafe-api) | [signsafe-api.dsmhs.kr](https://signsafe-api.dsmhs.kr) |
+| signsafe-ai | [GitHub](https://github.com/signsafe-io/signsafe-ai) | No routes |
+| signsafe-web | [GitHub](https://github.com/signsafe-io/signsafe-web) | [signsafe-web.dsmhs.kr](https://signsafe-web.dsmhs.kr) |
+
 ### VONIQ
 
 | Service | GitHub | URL |
