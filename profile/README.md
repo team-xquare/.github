@@ -188,6 +188,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
 | mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
+### WHISKCLONE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| whisk-backend | [GitHub](https://github.com/synthframe/synthframe-api) | No routes |
+| whisk-frontend | [GitHub](https://github.com/synthframe/synthframe-web) | No routes |
+| synthframe-web | [GitHub](https://github.com/synthframe/synthframe-web) | [synthframe.dsmhs.kr](https://synthframe.dsmhs.kr) |
+| synthframe-api | [GitHub](https://github.com/synthframe/synthframe-api) | [synthframeapi.dsmhs.kr](https://synthframeapi.dsmhs.kr) |
+
 ### DEUKNET
 
 | Service | GitHub | URL |
@@ -237,8 +246,8 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| fe | [GitHub](https://github.com/team-gozip/motiveet_FE) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
 | be | [GitHub](https://github.com/team-gozip/motiveet-be) | [motiveet-api.dsmhs.kr](https://motiveet-api.dsmhs.kr) |
+| fe | [GitHub](https://github.com/team-gozip/motiveet_FE_offline) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
 
 ### NONAMED
 
@@ -253,13 +262,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
-
-### WHISKCLONE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| whisk-backend | [GitHub](https://github.com/synthframe/whisk-clone-backend) | [whisk-backend.dsmhs.kr](https://whisk-backend.dsmhs.kr) |
-| whisk-frontend | [GitHub](https://github.com/synthframe/whisk-clone-frontend) | [whisk-frontend.dsmhs.kr](https://whisk-frontend.dsmhs.kr) |
 
 ### BOGO
 
