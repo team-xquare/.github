@@ -275,6 +275,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
 
+### GUNYOIL
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| gunyoil-be | [GitHub](https://github.com/GUNYOIL/gunyoil-be) | No routes |
+
 ### JAKBU
 
 | Service | GitHub | URL |
