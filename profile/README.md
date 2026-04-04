@@ -279,7 +279,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| gunyoil-be | [GitHub](https://github.com/GUNYOIL/gunyoil-be) | No routes |
+| gunyoil-be | [GitHub](https://github.com/GUNYOIL/gunyoil-be) | [gunyoil.dsmhs.kr](https://gunyoil.dsmhs.kr) |
 
 ### JAKBU
 
