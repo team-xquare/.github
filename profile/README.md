@@ -276,6 +276,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | bogo | [GitHub](https://github.com/Bogo-dsm/bogo_server) | [bodo.dsmhs.kr](https://bodo.dsmhs.kr) |
 
+### DONGSHOP
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dongshop | [GitHub](https://github.com/dsm-hs-kr/dongshop) | [dongshop.dsmhs.kr](https://dongshop.dsmhs.kr) |
+
 ### GRAMTEST
 
 | Service | GitHub | URL |
