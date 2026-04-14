@@ -93,6 +93,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | daedong-teacher-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-teacher-prod.dsmhs.kr](https://daedong-teacher-prod.dsmhs.kr) |
 | daedong-api-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-prod.dsmhs.kr](https://daedong-api-prod.dsmhs.kr) |
 | daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-stag.dsmhs.kr](https://daedong-api-stag.dsmhs.kr) |
+| little-be-temp | [GitHub](https://github.com/Little-DSM/Little-BE) | [little-be-temp.dsmhs.kr](https://little-be-temp.dsmhs.kr) |
 
 ### DMS
 
@@ -263,13 +264,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
-### TEAMKHJ
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| khj-frontend-teacher-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-teacher.dsmhs.kr](https://khj-teacher.dsmhs.kr) |
-| khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-studnet.dsmhs.kr](https://khj-studnet.dsmhs.kr) |
-
 ### BOGO
 
 | Service | GitHub | URL |
@@ -306,6 +300,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
 
+### LITTLEDSM
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| little-be-prod | [GitHub](https://github.com/Little-DSM/Little-BE) | [littledsm-api.dsmhs.kr](https://littledsm-api.dsmhs.kr) |
+
 ### STATUSCHAT
 
 | Service | GitHub | URL |
@@ -323,6 +323,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
+
+### TEAMKHJ
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-studnet.dsmhs.kr](https://khj-studnet.dsmhs.kr) |
 
 ### TILT
 
