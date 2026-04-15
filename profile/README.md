@@ -264,6 +264,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
+### TEAMKHJ
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-student.dsmhs.kr](https://khj-student.dsmhs.kr) |
+| khj-fe-teacher-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-teacher.dsmhs.kr](https://khj-teacher.dsmhs.kr) |
+
 ### BOGO
 
 | Service | GitHub | URL |
@@ -323,12 +330,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
-
-### TEAMKHJ
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-studnet.dsmhs.kr](https://khj-studnet.dsmhs.kr) |
 
 ### TILT
 
