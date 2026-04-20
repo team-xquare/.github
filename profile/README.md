@@ -143,6 +143,16 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | infra-frontend-prod | [GitHub](https://github.com/team-xquare/xquare-infra-frontend-v3) | [xquare.dsmhs.kr](https://xquare.dsmhs.kr) |
 | xquare-server | [GitHub](https://github.com/team-xquare/xquare-server) | [xquare-server.dsmhs.kr](https://xquare-server.dsmhs.kr) |
 
+### FINDA
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| finda-gateway-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-dev.dsmhs.kr](https://finda-dev.dsmhs.kr) |
+| finda-auth-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-auth-dev.dsmhs.kr](https://finda-auth-dev.dsmhs.kr) |
+| finda-volunteer-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-volunteer-dev.dsmhs.kr](https://finda-volunteer-dev.dsmhs.kr) |
+| finda-notification-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-notification-dev.dsmhs.kr](https://finda-notification-dev.dsmhs.kr) |
+| finda-batch-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-batch-dev.dsmhs.kr](https://finda-batch-dev.dsmhs.kr) |
+
 ### PRIVATECALL
 
 | Service | GitHub | URL |
