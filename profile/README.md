@@ -190,6 +190,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
 | frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 
+### MOTIVEET
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| be | [GitHub](https://github.com/team-gozip/motiveet-be) | [motiveet-api.dsmhs.kr](https://motiveet-api.dsmhs.kr) |
+| fe | [GitHub](https://github.com/team-gozip/motiveet_FE_offline) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
+| be-online | [GitHub](https://github.com/team-gozip/motiveet-BE-online) | [motiveet-online-api.dsmhs.kr](https://motiveet-online-api.dsmhs.kr) |
+| fe-online | [GitHub](https://github.com/team-gozip/motiveet_FE_online) | [motiveet-online.dsmhs.kr](https://motiveet-online.dsmhs.kr) |
+
 ### MOZU
 
 | Service | GitHub | URL |
@@ -253,13 +262,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
 
-### MOTIVEET
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| be | [GitHub](https://github.com/team-gozip/motiveet-be) | [motiveet-api.dsmhs.kr](https://motiveet-api.dsmhs.kr) |
-| fe | [GitHub](https://github.com/team-gozip/motiveet_FE_offline) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
-
 ### NONAMED
 
 | Service | GitHub | URL |
@@ -322,6 +324,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | little-be-prod | [GitHub](https://github.com/Little-DSM/Little-BE) | [littledsm-api.dsmhs.kr](https://littledsm-api.dsmhs.kr) |
+
+### NSG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| nsg-be | [GitHub](https://github.com/DSM-NSG/NSG-BE) | No routes |
 
 ### STATUSCHAT
 
