@@ -153,6 +153,16 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | finda-notification-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-notification-dev.dsmhs.kr](https://finda-notification-dev.dsmhs.kr) |
 | finda-batch-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-batch-dev.dsmhs.kr](https://finda-batch-dev.dsmhs.kr) |
 
+### GUPSIKBULK
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
+| frontend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk.dsmhs.kr](https://gupsikbulk.dsmhs.kr) |
+| backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
+| airleg-docs | No repository | No routes |
+
 ### PRIVATECALL
 
 | Service | GitHub | URL |
@@ -180,15 +190,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | server-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api-stag.dsmhs.kr](https://gujeuk-api-stag.dsmhs.kr) |
 | frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
 | frontend-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk-stag.dsmhs.kr](https://gujeuk-stag.dsmhs.kr) |
-
-### GUPSIKBULK
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
-| frontend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk.dsmhs.kr](https://gupsikbulk.dsmhs.kr) |
-| backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
-| frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 
 ### MOTIVEET
 
@@ -282,6 +283,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-student.dsmhs.kr](https://khj-student.dsmhs.kr) |
 | khj-fe-teacher-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-teacher.dsmhs.kr](https://khj-teacher.dsmhs.kr) |
+
+### AIRLEG
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| airleg-docs | [GitHub](https://github.com/leejh08/AirLeg) | [airleg-guide.dsmhs.kr](https://airleg-guide.dsmhs.kr) |
 
 ### BOGO
 
