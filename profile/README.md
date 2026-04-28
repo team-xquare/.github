@@ -277,6 +277,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
 
+### OPENAIPROXY
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| proxy | [GitHub](https://github.com/aiminted/openai-proxy) | [openai-proxy.dsmhs.kr](https://openai-proxy.dsmhs.kr) |
+| admin | [GitHub](https://github.com/aiminted/openai-proxy-admin) | [openai-proxy-admin.dsmhs.kr](https://openai-proxy-admin.dsmhs.kr) |
+
 ### TEAMKHJ
 
 | Service | GitHub | URL |
