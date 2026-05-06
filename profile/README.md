@@ -108,6 +108,8 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
 | notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| head-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [head-teacher-dms.dsmhs.kr](https://head-teacher-dms.dsmhs.kr) |
+| general-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [general-teacher-dms.dsmhs.kr](https://general-teacher-dms.dsmhs.kr) |
 
 ### NEXUS
 
