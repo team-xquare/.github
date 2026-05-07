@@ -286,6 +286,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | proxy | [GitHub](https://github.com/aiminted/openai-proxy) | [openai-proxy.dsmhs.kr](https://openai-proxy.dsmhs.kr) |
 | admin | [GitHub](https://github.com/aiminted/openai-proxy-admin) | [openai-proxy-admin.dsmhs.kr](https://openai-proxy-admin.dsmhs.kr) |
 
+### PROJECTSILMOO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| gujeuk-check-in-server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
+| gujeuk-check-in-server-docker | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
+
 ### TEAMKHJ
 
 | Service | GitHub | URL |
@@ -328,6 +335,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | gunyoil-be | [GitHub](https://github.com/GUNYOIL/gunyoil-be) | [gunyoil.dsmhs.kr](https://gunyoil.dsmhs.kr) |
+
+### HITEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| hi | [GitHub](https://github.com/team-xquare/hitest) | [hi.dsmhs.kr](https://hi.dsmhs.kr) |
 
 ### JAKBU
 
