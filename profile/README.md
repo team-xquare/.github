@@ -45,23 +45,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
 | fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
 
-### DSMAUTHSERVICE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
-| daedongyeojido-be | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | No routes |
-| daedong-teacher-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-admin-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-student-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-web-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-admin-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-teacher-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-web-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-student-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | No routes |
-| daedong-api-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | No routes |
-| daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | No routes |
-
 ### ENTRY
 
 | Service | GitHub | URL |
@@ -78,22 +61,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 | entrydsm-community-manager | [GitHub](https://github.com/EntryDSM/entrydsm-community-manager) | No routes |
-
-### DAEDONGYEOJIDO
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| daedong-web-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-web-prod.dsmhs.kr](https://daedong-web-prod.dsmhs.kr) |
-| daedong-web-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-web-stag.dsmhs.kr](https://daedong-web-stag.dsmhs.kr) |
-| daedong-student-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-student-stag.dsmhs.kr](https://daedong-student-stag.dsmhs.kr) |
-| daedong-student-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-student-prod.dsmhs.kr](https://daedong-student-prod.dsmhs.kr) |
-| daedong-admin-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-admin-prod.dsmhs.kr](https://daedong-admin-prod.dsmhs.kr) |
-| daedong-admin-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-admin-stag.dsmhs.kr](https://daedong-admin-stag.dsmhs.kr) |
-| daedong-teacher-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-teacher-stag.dsmhs.kr](https://daedong-teacher-stag.dsmhs.kr) |
-| daedong-teacher-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_FE_v4.0) | [daedong-teacher-prod.dsmhs.kr](https://daedong-teacher-prod.dsmhs.kr) |
-| daedong-api-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-prod.dsmhs.kr](https://daedong-api-prod.dsmhs.kr) |
-| daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-stag.dsmhs.kr](https://daedong-api-stag.dsmhs.kr) |
-| little-be-temp | [GitHub](https://github.com/Little-DSM/Little-BE) | [little-be-temp.dsmhs.kr](https://little-be-temp.dsmhs.kr) |
 
 ### DMS
 
@@ -220,6 +187,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | synthframe-web | [GitHub](https://github.com/synthframe/synthframe-web) | [synthframe.dsmhs.kr](https://synthframe.dsmhs.kr) |
 | synthframe-api | [GitHub](https://github.com/synthframe/synthframe-api) | [synthframeapi.dsmhs.kr](https://synthframeapi.dsmhs.kr) |
 
+### DAEDONGYEOJIDO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| daedong-api-prod | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-prod.dsmhs.kr](https://daedong-api-prod.dsmhs.kr) |
+| daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-stag.dsmhs.kr](https://daedong-api-stag.dsmhs.kr) |
+| little-be-temp | [GitHub](https://github.com/Little-DSM/Little-BE) | [little-be-temp.dsmhs.kr](https://little-be-temp.dsmhs.kr) |
+
 ### DEUKNET
 
 | Service | GitHub | URL |
@@ -323,6 +298,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | dongshop | [GitHub](https://github.com/dsm-hs-kr/dongshop) | [dongshop.dsmhs.kr](https://dongshop.dsmhs.kr) |
+
+### DSMAUTHSERVICE
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
 
 ### GRAMTEST
 
