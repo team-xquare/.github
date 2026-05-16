@@ -268,6 +268,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | gujeuk-check-in-server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
 | gujeuk-check-in-server-docker | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
 
+### SOFTWARERENGINEERING
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| brawlgg-server | [GitHub](https://github.com/Team-selfton/BrawlGG) | [brawlgg-server.dsmhs.kr](https://brawlgg-server.dsmhs.kr) |
+| brawlgg-server-v2 | [GitHub](https://github.com/Team-selfton/BrawlGG) | No routes |
+
 ### TEAMKHJ
 
 | Service | GitHub | URL |
