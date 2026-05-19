@@ -226,6 +226,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | dsg | [GitHub](https://github.com/2026DSG/DSG_Backend) | [dsg-api.dsmhs.kr](https://dsg-api.dsmhs.kr) |
 | dsg-fe | [GitHub](https://github.com/2026DSG/DSG_Frontend) | [dsg.dsmhs.kr](https://dsg.dsmhs.kr) |
 
+### FABLO
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| falletter-server-prod | [GitHub](https://github.com/FABLOFABLO/Falletter-Backend) | [falletter-api.dsmhs.kr](https://falletter-api.dsmhs.kr) |
+| falletter-server-dev | [GitHub](https://github.com/FABLOFABLO/Falletter-Backend) | [falletter-dev-api.dsmhs.kr](https://falletter-dev-api.dsmhs.kr) |
+
 ### LEEJH08
 
 | Service | GitHub | URL |
