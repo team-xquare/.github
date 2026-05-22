@@ -348,6 +348,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | little-be-prod | [GitHub](https://github.com/Little-DSM/Little-BE) | [littledsm-api.dsmhs.kr](https://littledsm-api.dsmhs.kr) |
 
+### MEDIASEGMENTDOWNLOADER
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| msd | [GitHub](https://github.com/nerhwida/MSD) | [msd.dsmhs.kr](https://msd.dsmhs.kr) |
+
 ### NSG
 
 | Service | GitHub | URL |
