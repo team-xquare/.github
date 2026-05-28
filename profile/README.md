@@ -342,6 +342,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | jsj | [GitHub](https://github.com/Teromox/backend) | [teromox-backend.dsmhs.kr](https://teromox-backend.dsmhs.kr) |
 
+### KIMSARAM32
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| iamout | [GitHub](https://github.com/kimsaram32/iamout-slop) | [iamout.dsmhs.kr](https://iamout.dsmhs.kr) |
+
 ### LITTLEDSM
 
 | Service | GitHub | URL |
