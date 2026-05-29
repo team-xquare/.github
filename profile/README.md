@@ -45,6 +45,23 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
 | fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
 
+### DMS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
+| webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
+| gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
+| gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
+| main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
+| head-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [head-teacher-dms.dsmhs.kr](https://head-teacher-dms.dsmhs.kr) |
+| general-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [general-teacher-dms.dsmhs.kr](https://general-teacher-dms.dsmhs.kr) |
+| student-frontend-prod | [GitHub](https://github.com/yellowstarr0323/DMS-FE-Student) | [student-dms.dsmhs.kr](https://student-dms.dsmhs.kr) |
+
 ### ENTRY
 
 | Service | GitHub | URL |
@@ -61,22 +78,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-status | [GitHub](https://github.com/EntryDSM/Casper-Status) | [casper-status.entrydsm.hs.kr](https://casper-status.entrydsm.hs.kr) |
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 | entrydsm-community-manager | [GitHub](https://github.com/EntryDSM/entrydsm-community-manager) | No routes |
-
-### DMS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dms.dsmhs.kr](https://admin-dms.dsmhs.kr) |
-| frontend-stag | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [admin-dev-dms.dsmhs.kr](https://admin-dev-dms.dsmhs.kr) |
-| webview-prod | [GitHub](https://github.com/team-aliens/dms-webview) | [webview-dms.dsmhs.kr](https://webview-dms.dsmhs.kr) |
-| gateway-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | [api-dms.dsmhs.kr](https://api-dms.dsmhs.kr) |
-| gateway-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | [dev-api-dms.dsmhs.kr](https://dev-api-dms.dsmhs.kr) |
-| main-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| main-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| notification-prod | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| notification-stag | [GitHub](https://github.com/team-aliens/DMS-Backend) | No routes |
-| head-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [head-teacher-dms.dsmhs.kr](https://head-teacher-dms.dsmhs.kr) |
-| general-frontend-prod | [GitHub](https://github.com/team-aliens/DMS-Frontend) | [general-teacher-dms.dsmhs.kr](https://general-teacher-dms.dsmhs.kr) |
 
 ### NEXUS
 
