@@ -313,6 +313,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | dsm-login-prod | [GitHub](https://github.com/DAS-DsmAuthService/Dsm-login-server) | [dsm-login.dsmhs.kr](https://dsm-login.dsmhs.kr) |
 
+### EPM
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| epm | [GitHub](https://github.com/nerhwida/epm) | [epm.dsmhs.kr](https://epm.dsmhs.kr) |
+
 ### GRAMTEST
 
 | Service | GitHub | URL |
