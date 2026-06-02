@@ -248,13 +248,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
 
-### NONAMED
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| osj-be-prod | [GitHub](https://github.com/OSJ-v3/OSJ_V3_BE) | [osj.dsmhs.kr](https://osj.dsmhs.kr) |
-| osj-be-stag | [GitHub](https://github.com/OSJ-v3/OSJ_V3_BE) | [osj-stag.dsmhs.kr](https://osj-stag.dsmhs.kr) |
-
 ### OIL
 
 | Service | GitHub | URL |
@@ -366,6 +359,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | msd | [GitHub](https://github.com/nerhwida/MSD) | [msd.dsmhs.kr](https://msd.dsmhs.kr) |
+
+### NONAMED
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| osj-be-prod | [GitHub](https://github.com/OSJ-v3/OSJ_V3_BE) | [osj.dsmhs.kr](https://osj.dsmhs.kr) |
 
 ### NSG
 
