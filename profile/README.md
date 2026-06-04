@@ -24,27 +24,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 <details>
 <summary><h3>XQUARE를 통해 배포된 서비스 보기</h3></summary>
 
-### JOBIS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| be-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api.dsmhs.kr](https://jobis-api.dsmhs.kr) |
-| be-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-BE) | [jobis-api-stag.dsmhs.kr](https://jobis-api-stag.dsmhs.kr) |
-| fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin.dsmhs.kr](https://jobis-admin.dsmhs.kr) |
-| fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-admin-stag.dsmhs.kr](https://jobis-admin-stag.dsmhs.kr) |
-| fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company.dsmhs.kr](https://jobis-company.dsmhs.kr) |
-| fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-company-stag.dsmhs.kr](https://jobis-company-stag.dsmhs.kr) |
-| fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis.dsmhs.kr](https://jobis.dsmhs.kr) |
-| fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-FE-V2) | [jobis-stag.dsmhs.kr](https://jobis-stag.dsmhs.kr) |
-| v1-fe-student-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis-stag.dsmhs.kr](https://v1-jobis-stag.dsmhs.kr) |
-| v1-fe-admin-stag | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin-stag.dsmhs.kr](https://v1-jobis-admin-stag.dsmhs.kr) |
-| v1-fe-company-stag | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company-stag.dsmhs.kr](https://v1-jobis-company-stag.dsmhs.kr) |
-| v1-fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis.dsmhs.kr](https://v1-jobis.dsmhs.kr) |
-| v1-fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin.dsmhs.kr](https://v1-jobis-admin.dsmhs.kr) |
-| v1-fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company.dsmhs.kr](https://v1-jobis-company.dsmhs.kr) |
-| fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
-| fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
-
 ### DMS
 
 | Service | GitHub | URL |
@@ -132,6 +111,16 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
 | frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 | airleg-docs | No repository | No routes |
+
+### JOBIS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| v1-fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis.dsmhs.kr](https://v1-jobis.dsmhs.kr) |
+| v1-fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin.dsmhs.kr](https://v1-jobis-admin.dsmhs.kr) |
+| v1-fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company.dsmhs.kr](https://v1-jobis-company.dsmhs.kr) |
+| fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
+| fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
 
 ### PRIVATECALL
 
@@ -268,13 +257,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | gujeuk-check-in-server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
 | gujeuk-check-in-server-docker | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | No routes |
-
-### TEAMKHJ
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| khj-frontend-student-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-student.dsmhs.kr](https://khj-student.dsmhs.kr) |
-| khj-fe-teacher-prod | [GitHub](https://github.com/pjKHJ/prKHJ_Frontend_V2) | [khj-teacher.dsmhs.kr](https://khj-teacher.dsmhs.kr) |
 
 ### AIRLEG
 
