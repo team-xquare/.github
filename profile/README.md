@@ -112,16 +112,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 | airleg-docs | No repository | No routes |
 
-### JOBIS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| v1-fe-student-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-STUDENT-FE) | [v1-jobis.dsmhs.kr](https://v1-jobis.dsmhs.kr) |
-| v1-fe-admin-prod | [GitHub](https://github.com/Team-return/JOBIS-DSM-ADMIN-FE) | [v1-jobis-admin.dsmhs.kr](https://v1-jobis-admin.dsmhs.kr) |
-| v1-fe-company-prod | [GitHub](https://github.com/Team-return/JOBIS-FE) | [v1-jobis-company.dsmhs.kr](https://v1-jobis-company.dsmhs.kr) |
-| fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
-| fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
-
 ### PRIVATECALL
 
 | Service | GitHub | URL |
@@ -140,15 +130,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
-
-### GUJEUKCHECKIN
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| server | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api.dsmhs.kr](https://gujeuk-api.dsmhs.kr) |
-| server-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-In_server) | [gujeuk-api-stag.dsmhs.kr](https://gujeuk-api-stag.dsmhs.kr) |
-| frontend | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk.dsmhs.kr](https://gujeuk.dsmhs.kr) |
-| frontend-stag | [GitHub](https://github.com/GuJeuk-Check-in/GuJeuk-Check-in-FE) | [gujeuk-stag.dsmhs.kr](https://gujeuk-stag.dsmhs.kr) |
 
 ### MOTIVEET
 
@@ -185,14 +166,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-stag.dsmhs.kr](https://daedong-api-stag.dsmhs.kr) |
 | little-be-temp | [GitHub](https://github.com/Little-DSM/Little-BE) | [little-be-temp.dsmhs.kr](https://little-be-temp.dsmhs.kr) |
 
-### DEUKNET
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| deuknet-be-prod | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api.dsmhs.kr](https://deuknet-api.dsmhs.kr) |
-| deuknet-be-stag | [GitHub](https://github.com/DeukNet/DeukNet-BE) | [deuknet-api-stag.dsmhs.kr](https://deuknet-api-stag.dsmhs.kr) |
-| deuknet-fe-prod | [GitHub](https://github.com/DeukNet/DeukNet-FE) | [deuknet.dsmhs.kr](https://deuknet.dsmhs.kr) |
-
 ### SIGNSAFE
 
 | Service | GitHub | URL |
@@ -222,6 +195,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | falletter-server-prod | [GitHub](https://github.com/FABLOFABLO/Falletter-Backend) | [falletter-api.dsmhs.kr](https://falletter-api.dsmhs.kr) |
 | falletter-server-dev | [GitHub](https://github.com/FABLOFABLO/Falletter-Backend) | [falletter-dev-api.dsmhs.kr](https://falletter-dev-api.dsmhs.kr) |
+
+### JOBIS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| fe-webview-prod | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview.dsmhs.kr](https://jobis-webview.dsmhs.kr) |
+| fe-webview-stag | [GitHub](https://github.com/Team-return/JOBIS-WEBVIEW) | [jobis-webview-stag.dsmhs.kr](https://jobis-webview-stag.dsmhs.kr) |
 
 ### LEEJH08
 
@@ -264,12 +244,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | airleg-docs | [GitHub](https://github.com/leejh08/AirLeg) | [airleg-guide.dsmhs.kr](https://airleg-guide.dsmhs.kr) |
 
-### BOGO
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| bogo | [GitHub](https://github.com/Bogo-dsm/bogo_server) | [bodo.dsmhs.kr](https://bodo.dsmhs.kr) |
-
 ### BOOKMARU
 
 | Service | GitHub | URL |
@@ -294,12 +268,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | epm | [GitHub](https://github.com/nerhwida/epm) | [epm.dsmhs.kr](https://epm.dsmhs.kr) |
 
-### GRAMTEST
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| server | [GitHub](https://github.com/xquare-mirror/MIRROR-f8a91e7c3dbe6a42f9c7d08e14b3af9271c5e8a7b6d2f4c1e9a8d7b2f6e3c9d1058b2a4f1c6d7e9b0f3a5c7d8e) | [gramtest-api.dsmhs.kr](https://gramtest-api.dsmhs.kr) |
-
 ### GUNYOIL
 
 | Service | GitHub | URL |
@@ -317,12 +285,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | be-prod | [GitHub](https://github.com/Team-selfton/JakBu_BE) | [jakbu-api.dsmhs.kr](https://jakbu-api.dsmhs.kr) |
-
-### JSJ
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| jsj | [GitHub](https://github.com/Teromox/backend) | [teromox-backend.dsmhs.kr](https://teromox-backend.dsmhs.kr) |
 
 ### KIMSARAM32
 
@@ -371,12 +333,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | teacher-prod | [GitHub](https://github.com/SeoMuseong/DSMLearnCast) | [learn.dsmhs.kr](https://learn.dsmhs.kr) |
-
-### TEAMDBE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| bms | [GitHub](https://github.com/Team-DBE/BMS-BE) | [bms-be.dsmhs.kr](https://bms-be.dsmhs.kr) |
 
 ### TILT
 
