@@ -58,18 +58,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | casper-schedule | [GitHub](https://github.com/EntryDSM/Casper-Schedule) | [casper-schedule.entrydsm.hs.kr](https://casper-schedule.entrydsm.hs.kr) |
 | entrydsm-community-manager | [GitHub](https://github.com/EntryDSM/entrydsm-community-manager) | No routes |
 
-### NEXUS
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| nexus-gateway | [GitHub](https://github.com/nxs-hub/nexus-gateway) | No routes |
-| nexus-user | [GitHub](https://github.com/nxs-hub/nexus-user) | No routes |
-| nexus-post | [GitHub](https://github.com/nxs-hub/nexus-post) | No routes |
-| nexus-search | [GitHub](https://github.com/nxs-hub/nexus-search) | No routes |
-| nexus-web | [GitHub](https://github.com/nxs-hub/nexus-web) | [nexus.dsmhs.kr](https://nexus.dsmhs.kr) |
-| nexus-notification | [GitHub](https://github.com/nxs-hub/nexus-notification) | No routes |
-| nexus-dm | [GitHub](https://github.com/nxs-hub/nexus-dm) | No routes |
-
 ### PICK
 
 | Service | GitHub | URL |
@@ -112,16 +100,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 | airleg-docs | No repository | No routes |
 
-### PRIVATECALL
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| api | [GitHub](https://github.com/veilcall/api) | [api.dsmhs.kr](https://api.dsmhs.kr) |
-| freeswitch | [GitHub](https://github.com/veilcall/freeswitch) | No routes |
-| tor | [GitHub](https://github.com/veilcall/tor) | No routes |
-| monero | [GitHub](https://github.com/veilcall/monero) | No routes |
-| web | [GitHub](https://github.com/veilcall/web) | [veilcall.dsmhs.kr](https://veilcall.dsmhs.kr) |
-
 ### DSMREPO
 
 | Service | GitHub | URL |
@@ -130,33 +108,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
-
-### MOTIVEET
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| be | [GitHub](https://github.com/team-gozip/motiveet-be) | [motiveet-api.dsmhs.kr](https://motiveet-api.dsmhs.kr) |
-| fe | [GitHub](https://github.com/team-gozip/motiveet_FE_offline) | [motiveet.dsmhs.kr](https://motiveet.dsmhs.kr) |
-| be-online | [GitHub](https://github.com/team-gozip/motiveet-BE-online) | [motiveet-online-api.dsmhs.kr](https://motiveet-online-api.dsmhs.kr) |
-| fe-online | [GitHub](https://github.com/team-gozip/motiveet_FE_online) | [motiveet-online.dsmhs.kr](https://motiveet-online.dsmhs.kr) |
-
-### MOZU
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| mozu-server-prod | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu.dsmhs.kr](https://mozu.dsmhs.kr) |
-| mozu-server-stag | [GitHub](https://github.com/team-mozu/mozu-BE) | [mozu-stag.dsmhs.kr](https://mozu-stag.dsmhs.kr) |
-| mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
-| mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
-
-### WHISKCLONE
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| whisk-backend | [GitHub](https://github.com/synthframe/synthframe-api) | No routes |
-| whisk-frontend | [GitHub](https://github.com/synthframe/synthframe-web) | No routes |
-| synthframe-web | [GitHub](https://github.com/synthframe/synthframe-web) | [synthframe.dsmhs.kr](https://synthframe.dsmhs.kr) |
-| synthframe-api | [GitHub](https://github.com/synthframe/synthframe-api) | [synthframeapi.dsmhs.kr](https://synthframeapi.dsmhs.kr) |
 
 ### DAEDONGYEOJIDO
 
@@ -173,14 +124,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | signsafe-api | [GitHub](https://github.com/signsafe-io/signsafe-api) | [signsafe-api.dsmhs.kr](https://signsafe-api.dsmhs.kr) |
 | signsafe-ai | [GitHub](https://github.com/signsafe-io/signsafe-ai) | No routes |
 | signsafe-web | [GitHub](https://github.com/signsafe-io/signsafe-web) | [signsafe-web.dsmhs.kr](https://signsafe-web.dsmhs.kr) |
-
-### VONIQ
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| api | [GitHub](https://github.com/voniq/api) | [voniq-api.dsmhs.kr](https://voniq-api.dsmhs.kr) |
-| web | [GitHub](https://github.com/voniq/web) | [voniq.dsmhs.kr](https://voniq.dsmhs.kr) |
-| freeswitch | [GitHub](https://github.com/voniq/freeswitch) | No routes |
 
 ### DSG
 
@@ -217,12 +160,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
 
-### OIL
+### MOZU
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| be-prod | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api.dsmhs.kr](https://oil-api.dsmhs.kr) |
-| be-stag | [GitHub](https://github.com/team-OIL/OIL-BE) | [oil-api-stag.dsmhs.kr](https://oil-api-stag.dsmhs.kr) |
+| mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
+| mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
 ### OPENAIPROXY
 
@@ -250,12 +193,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | bookmaru | [GitHub](https://github.com/plain-bookshelf/BookMaru-BE) | [bookmaru.dsmhs.kr](https://bookmaru.dsmhs.kr) |
 
-### DONGSHOP
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| dongshop | [GitHub](https://github.com/dsm-hs-kr/dongshop) | [dongshop.dsmhs.kr](https://dongshop.dsmhs.kr) |
-
 ### DSMAUTHSERVICE
 
 | Service | GitHub | URL |
@@ -273,12 +210,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | gunyoil-be | [GitHub](https://github.com/GUNYOIL/gunyoil-be) | [gunyoil.dsmhs.kr](https://gunyoil.dsmhs.kr) |
-
-### HITEST
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| hi | [GitHub](https://github.com/team-xquare/hitest) | [hi.dsmhs.kr](https://hi.dsmhs.kr) |
 
 ### JAKBU
 
@@ -322,35 +253,11 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | brawlgg-server-v2 | [GitHub](https://github.com/Team-selfton/BrawlGG) | [brawlgg-server.dsmhs.kr](https://brawlgg-server.dsmhs.kr) |
 
-### STATUSCHAT
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| statuschat | [GitHub](https://github.com/1408bg/status-chat) | [status-chat.dsmhs.kr](https://status-chat.dsmhs.kr) |
-
 ### TEACHER
 
 | Service | GitHub | URL |
 |---------|--------|-----|
 | teacher-prod | [GitHub](https://github.com/SeoMuseong/DSMLearnCast) | [learn.dsmhs.kr](https://learn.dsmhs.kr) |
-
-### TILT
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| tilt-dsm-prod | [GitHub](https://github.com/TILT-DSM/TILT_SERVER) | [tilt-api.dsmhs.kr](https://tilt-api.dsmhs.kr) |
-
-### TODOLIST
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| todo-list | [GitHub](https://github.com/k-siwoo/todo-list) | [todo-list-k-siwoo.dsmhs.kr](https://todo-list-k-siwoo.dsmhs.kr) |
-
-### WEERO
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| server | [GitHub](https://github.com/Team-Weero/weero-server-v2) | [weero-api.dsmhs.kr](https://weero-api.dsmhs.kr) |
 
 ### YUON
 
