@@ -160,6 +160,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | be-prod | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api.dsmhs.kr](https://mohaeng-api.dsmhs.kr) |
 | be-stag | [GitHub](https://github.com/SERVICE-MOHAENG/Mohaeng-BE) | [mohaeng-api-stag.dsmhs.kr](https://mohaeng-api-stag.dsmhs.kr) |
 
+### MOTIVEET
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/team-gozip/motiveet-BE-online) | No routes |
+| frontend | [GitHub](https://github.com/team-gozip/motiveet_FE_online) | [motiveet-web.dsmhs.kr](https://motiveet-web.dsmhs.kr) |
+
 ### MOZU
 
 | Service | GitHub | URL |
