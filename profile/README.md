@@ -254,6 +254,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | nsg-be | [GitHub](https://github.com/DSM-NSG/NSG-BE) | No routes |
 
+### PLS
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend-stag | [GitHub](https://github.com/PLsDsm/backend-v1) | [backend-stag.dsmhs.kr](https://backend-stag.dsmhs.kr) |
+
 ### SOFTWARERENGINEERING
 
 | Service | GitHub | URL |
