@@ -90,16 +90,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | finda-notification-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-notification-dev.dsmhs.kr](https://finda-notification-dev.dsmhs.kr) |
 | finda-batch-dev | [GitHub](https://github.com/team-FINDA/Finda-Backend) | [finda-batch-dev.dsmhs.kr](https://finda-batch-dev.dsmhs.kr) |
 
-### GUPSIKBULK
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
-| frontend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk.dsmhs.kr](https://gupsikbulk.dsmhs.kr) |
-| backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
-| frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
-| airleg-docs | No repository | No routes |
-
 ### DSMREPO
 
 | Service | GitHub | URL |
@@ -108,6 +98,15 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | repo-main-prod | [GitHub](https://github.com/DSM-Repo/repo) | [www.dsm-repo.com](https://www.dsm-repo.com) |
 | repo-teacher-prod | [GitHub](https://github.com/DSM-Repo/repo) | [teacher.dsm-repo.com](https://teacher.dsm-repo.com) |
 | repo-user-prod | [GitHub](https://github.com/DSM-Repo/repo) | [user.dsm-repo.com](https://user.dsm-repo.com) |
+
+### GUPSIKBULK
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| backend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-api.dsmhs.kr](https://gupsikbulk-api.dsmhs.kr) |
+| frontend | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk.dsmhs.kr](https://gupsikbulk.dsmhs.kr) |
+| backend-dev | [GitHub](https://github.com/GupSikBulk/GupSikBulk_BE) | [gupsikbulk-dev-api.dsmhs.kr](https://gupsikbulk-dev-api.dsmhs.kr) |
+| frontend-stag | [GitHub](https://github.com/GupSikBulk/GupSikBulk_FE) | [gupsikbulk-stag.dsmhs.kr](https://gupsikbulk-stag.dsmhs.kr) |
 
 ### DAEDONGYEOJIDO
 
