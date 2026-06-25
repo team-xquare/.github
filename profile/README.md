@@ -116,6 +116,14 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | daedong-api-stag | [GitHub](https://github.com/Team-jeong-ho-kim/Daedongyeojido_BE_v4.0) | [daedong-api-stag.dsmhs.kr](https://daedong-api-stag.dsmhs.kr) |
 | little-be-temp | [GitHub](https://github.com/Little-DSM/Little-BE) | [little-be-temp.dsmhs.kr](https://little-be-temp.dsmhs.kr) |
 
+### DAEMA
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| daema-client-prod | [GitHub](https://github.com/kangeunchan/daema-coin-client) | [daema.dsmhs.kr](https://daema.dsmhs.kr) |
+| daema-client-stag | [GitHub](https://github.com/kangeunchan/daema-coin-client) | [daema-stag.dsmhs.kr](https://daema-stag.dsmhs.kr) |
+| daema-server-prod | [GitHub](https://github.com/kangeunchan/daema-coin-server) | [daema-server-prod.dsmhs.kr](https://daema-server-prod.dsmhs.kr) |
+
 ### SIGNSAFE
 
 | Service | GitHub | URL |
