@@ -277,7 +277,7 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 
 | Service | GitHub | URL |
 |---------|--------|-----|
-| pls-backend | [GitHub](https://github.com/PLsDsm/backend-v1) | No routes |
+| pls-backend | [GitHub](https://github.com/PLsDsm/backend-v1) | [plsdsm-pls-backend.dsmhs.kr](https://plsdsm-pls-backend.dsmhs.kr) |
 
 ### SCHOOLFESTIVAL
 
