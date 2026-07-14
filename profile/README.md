@@ -134,6 +134,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | signsafe-ai | [GitHub](https://github.com/signsafe-io/signsafe-ai) | No routes |
 | signsafe-web | [GitHub](https://github.com/signsafe-io/signsafe-web) | [signsafe-web.dsmhs.kr](https://signsafe-web.dsmhs.kr) |
 
+### DONGNEDEUKTEM
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| server | [GitHub](https://github.com/dongne-deuktem/server) | [dongne-deuktem-server.dsmhs.kr](https://dongne-deuktem-server.dsmhs.kr) |
+| seller-web | [GitHub](https://github.com/dongne-deuktem/seller-web) | [dongne-deuktem-seller.dsmhs.kr](https://dongne-deuktem-seller.dsmhs.kr) |
+
 ### DSG
 
 | Service | GitHub | URL |
@@ -175,13 +182,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 |---------|--------|-----|
 | backend | [GitHub](https://github.com/team-gozip/motiveet-BE-online) | No routes |
 | frontend | [GitHub](https://github.com/team-gozip/motiveet_FE_online) | [motiveet-web.dsmhs.kr](https://motiveet-web.dsmhs.kr) |
-
-### MOZU
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| mozu-server-v2-prod | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-prod.dsmhs.kr](https://mozu-v2-prod.dsmhs.kr) |
-| mozu-server-v2-stag | [GitHub](https://github.com/team-mozu/mozu-BE-v2) | [mozu-v2-stag.dsmhs.kr](https://mozu-v2-stag.dsmhs.kr) |
 
 ### OPENAIPROXY
 
@@ -244,6 +244,12 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | little-be-prod | [GitHub](https://github.com/Little-DSM/Little-BE) | [littledsm-api.dsmhs.kr](https://littledsm-api.dsmhs.kr) |
+
+### LOCALQUEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| ai-api | [GitHub](https://github.com/Local-Quest/AI) | [localquest.dsmhs.kr](https://localquest.dsmhs.kr) |
 
 ### MEDIASEGMENTDOWNLOADER
 
