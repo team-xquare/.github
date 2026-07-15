@@ -169,6 +169,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | gifty-prod | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api.dsmhs.kr](https://leejh08-gifty-api.dsmhs.kr) |
 | gifty-dev | [GitHub](https://github.com/leejh08/Gifty_Server) | [leejh08-gifty-api-dev.dsmhs.kr](https://leejh08-gifty-api-dev.dsmhs.kr) |
 
+### LOCALQUEST
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| ai-api | [GitHub](https://github.com/Local-Quest/AI) | [localquest.dsmhs.kr](https://localquest.dsmhs.kr) |
+| local-quest | [GitHub](https://github.com/ajswldp/local_quest) | [localquest-spring.dsmhs.kr](https://localquest-spring.dsmhs.kr) |
+
 ### MOHAENG
 
 | Service | GitHub | URL |
@@ -244,12 +251,6 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | Service | GitHub | URL |
 |---------|--------|-----|
 | little-be-prod | [GitHub](https://github.com/Little-DSM/Little-BE) | [littledsm-api.dsmhs.kr](https://littledsm-api.dsmhs.kr) |
-
-### LOCALQUEST
-
-| Service | GitHub | URL |
-|---------|--------|-----|
-| ai-api | [GitHub](https://github.com/Local-Quest/AI) | [localquest.dsmhs.kr](https://localquest.dsmhs.kr) |
 
 ### MEDIASEGMENTDOWNLOADER
 
