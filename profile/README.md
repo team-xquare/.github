@@ -148,6 +148,13 @@ XQUARE Infrastructure는 대덕소프트웨어마이스터고등학교만을 위
 | dsg | [GitHub](https://github.com/2026DSG/DSG_Backend) | [dsg-api.dsmhs.kr](https://dsg-api.dsmhs.kr) |
 | dsg-fe | [GitHub](https://github.com/2026DSG/DSG_Frontend) | [dsg.dsmhs.kr](https://dsg.dsmhs.kr) |
 
+### ENTRYDSM
+
+| Service | GitHub | URL |
+|---------|--------|-----|
+| entry-fe-admin | [GitHub](https://github.com/EntryDSM/EntryDsm-Admission-2026) | [www.entry-admin.dsmhs.kr](https://www.entry-admin.dsmhs.kr) |
+| entry-fe-user | [GitHub](https://github.com/EntryDSM/EntryDsm-Admission-2026) | [www.entry-user.dsmhs.kr](https://www.entry-user.dsmhs.kr) |
+
 ### FABLO
 
 | Service | GitHub | URL |
